@@ -1,0 +1,23 @@
+{
+  "communityPluginSortOrder": "release",
+  "readableLineLength": true,
+  "foldHeading": true,
+  "foldIndent": false,
+  "alwaysUpdateLinks": true,
+  "legacyEditor": false,
+  "livePreview": true,
+  "showFrontmatter": true,
+  "spellcheck": false,
+  "spellcheckLanguages": [],
+  "attachmentFolderPath": "99-Attachment",
+  "showLineNumber": true,
+  "defaultViewMode": "source",
+  "showUnsupportedFiles": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "promptDelete": false
+}

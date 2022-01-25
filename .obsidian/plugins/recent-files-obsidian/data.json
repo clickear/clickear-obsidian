@@ -1,0 +1,56 @@
+{
+  "recentFiles": [
+    {
+      "basename": "学习方法论",
+      "path": "00-Tips/学习方法论/学习方法论.md"
+    },
+    {
+      "basename": "彩色时钟",
+      "path": "88-Template/彩色时钟.md"
+    },
+    {
+      "basename": "home",
+      "path": "88-Template/home.md"
+    },
+    {
+      "basename": "常用工具",
+      "path": "88-Template/常用工具.md"
+    },
+    {
+      "basename": "从这开始",
+      "path": "从这开始.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "wallhaven-zx89ew",
+      "path": "99-Attachment/banner/wallhaven-zx89ew.jpg"
+    },
+    {
+      "basename": "wallhaven-kw96x7",
+      "path": "99-Attachment/banner/wallhaven-kw96x7.jpg"
+    },
+    {
+      "basename": "baner6",
+      "path": "99-Attachment/banner/baner6.jpg"
+    },
+    {
+      "basename": "baner0",
+      "path": "99-Attachment/banner/baner0.jpg"
+    },
+    {
+      "basename": "58b8a8d6e5e24648bc40e0c3180bfb37",
+      "path": "99-Attachment/banner/58b8a8d6e5e24648bc40e0c3180bfb37.jpg"
+    },
+    {
+      "basename": "1dba4bae1ea2d360647c1a070bcb2068",
+      "path": "99-Attachment/banner/1dba4bae1ea2d360647c1a070bcb2068.jpg"
+    }
+  ],
+  "omittedPaths": [
+    "^20-Diary/"
+  ],
+  "maxLength": 30
+}

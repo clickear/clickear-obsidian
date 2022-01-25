@@ -1,0 +1,22 @@
+{
+  "todoPageName": "todo",
+  "showChecked": false,
+  "autoRefresh": true,
+  "subGroups": false,
+  "groupBy": "page",
+  "sortDirectionItems": "new->old",
+  "sortDirectionGroups": "new->old",
+  "sortDirectionSubGroups": "new->old",
+  "includeFiles": "",
+  "lookAndFeel": "classic",
+  "_collapsedSections": [
+    "00-Tips/伪看板.md",
+    "00-Tips/AD伪看板.md",
+    "未命名 1.md",
+    "00-Tips/example/伪看板.md",
+    "00-Tips/example/AD伪看板.md"
+  ],
+  "_hiddenTags": [],
+  "sortDirection": "old->new",
+  "ignoreFiles": ""
+}
