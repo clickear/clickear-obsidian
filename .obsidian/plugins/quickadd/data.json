@@ -36,7 +36,7 @@
     },
     {
       "id": "1331d6d4-4efe-4d24-b585-80a9de29b397",
-      "name": "add task",
+      "name": "todo",
       "type": "Capture",
       "command": true,
       "appendLink": false,
@@ -70,14 +70,14 @@
     },
     {
       "id": "c2efaeca-133b-4362-804e-c4ad5565b8ae",
-      "name": "打开今天日记",
+      "name": "note",
       "type": "Macro",
       "command": true,
       "macroId": "9655dda4-4148-471e-8979-7539d4d6a59d"
     },
     {
       "id": "aa6840fd-9b83-4d4a-87d6-2b6471c1009b",
-      "name": "打开任务看板",
+      "name": "dashboard",
       "type": "Macro",
       "command": true,
       "macroId": "96067d39-1c22-4c96-9100-829814ac3251"
