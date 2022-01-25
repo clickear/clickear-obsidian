@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-Tips/学习方法论/阅读清单.md",
+            "file": "00-Tips/教育/教育.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-Tips/学习方法论/阅读清单.md",
+                "file": "00-Tips/教育/教育.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Tips/学习方法论/阅读清单.md"
+                "file": "00-Tips/教育/教育.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Tips/学习方法论/阅读清单.md",
+                "file": "00-Tips/教育/教育.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,6 +207,8 @@
   },
   "active": "60aafc9d8d91f321",
   "lastOpenFiles": [
+    "00-Tips/教育/教育.md",
+    "00-Tips/教育/孩子-挑战.md",
     "00-Tips/学习方法论/阅读清单.md",
     "00-Tips/Archive/下载网站.md",
     "00-Tips/Archive/TablePlus.md",
@@ -214,8 +216,6 @@
     "00-Tips/学习方法论/PARA.md",
     "20-Diary/2022-01-25.md",
     "20-Diary/2022-01-24.md",
-    "20-Diary/任务看板.md",
-    "Untitled.md",
-    "未命名.md"
+    "20-Diary/任务看板.md"
   ]
 }
