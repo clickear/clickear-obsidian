@@ -1,6 +1,6 @@
 module.exports = imgpath
 let images = []
-let folders = ["99-Attachment/banner"]
+let folders = ["99-Resource/banner"]
 
 /* async function short (params) {
     await init(params);

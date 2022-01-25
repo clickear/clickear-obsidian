@@ -18,7 +18,6 @@
   "10-Help": "RiBrush3Line",
   "20-Diary": "RiCalendarCheckLine",
   "88-Template": "RiArticleLine",
-  "99-Attachment": "RiArchiveDrawerLine",
   "88-Template/home.md": "RiAncientPavilionLine",
   "Readme.md": "RiAccountCircleLine",
   "从这开始.md": "RiArrowRightLine",
@@ -29,5 +28,6 @@
   "10-Help/Obsidian 快捷键一览表.md": {
     "iconName": null,
     "inheritanceIcon": "RiAccountCircleLine"
-  }
+  },
+  "99-Resource": "RiArchiveDrawerLine"
 }

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "日记模板",
+      "path": "88-Template/日记模板.md"
+    },
+    {
+      "basename": "通用模板",
+      "path": "88-Template/通用模板.md"
+    },
+    {
       "basename": "学习方法论",
       "path": "00-Tips/学习方法论/学习方法论.md"
     },
@@ -26,27 +34,27 @@
     },
     {
       "basename": "wallhaven-zx89ew",
-      "path": "99-Attachment/banner/wallhaven-zx89ew.jpg"
+      "path": "99-Resource/banner/wallhaven-zx89ew.jpg"
     },
     {
       "basename": "wallhaven-kw96x7",
-      "path": "99-Attachment/banner/wallhaven-kw96x7.jpg"
+      "path": "99-Resource/banner/wallhaven-kw96x7.jpg"
     },
     {
       "basename": "baner6",
-      "path": "99-Attachment/banner/baner6.jpg"
+      "path": "99-Resource/banner/baner6.jpg"
     },
     {
       "basename": "baner0",
-      "path": "99-Attachment/banner/baner0.jpg"
+      "path": "99-Resource/banner/baner0.jpg"
     },
     {
       "basename": "58b8a8d6e5e24648bc40e0c3180bfb37",
-      "path": "99-Attachment/banner/58b8a8d6e5e24648bc40e0c3180bfb37.jpg"
+      "path": "99-Resource/banner/58b8a8d6e5e24648bc40e0c3180bfb37.jpg"
     },
     {
       "basename": "1dba4bae1ea2d360647c1a070bcb2068",
-      "path": "99-Attachment/banner/1dba4bae1ea2d360647c1a070bcb2068.jpg"
+      "path": "99-Resource/banner/1dba4bae1ea2d360647c1a070bcb2068.jpg"
     }
   ],
   "omittedPaths": [
