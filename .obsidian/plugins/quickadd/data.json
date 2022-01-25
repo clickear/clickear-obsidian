@@ -2,7 +2,7 @@
   "choices": [
     {
       "id": "2f9f18b1-c339-4b24-bdbb-cc13b7c42261",
-      "name": "daily",
+      "name": "note",
       "type": "Capture",
       "command": true,
       "appendLink": false,
@@ -70,7 +70,7 @@
     },
     {
       "id": "c2efaeca-133b-4362-804e-c4ad5565b8ae",
-      "name": "note",
+      "name": "open note",
       "type": "Macro",
       "command": true,
       "macroId": "9655dda4-4148-471e-8979-7539d4d6a59d"

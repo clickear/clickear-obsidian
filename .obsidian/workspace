@@ -9,11 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "˜˜.md",
+            "file": "00-Tips/学习方法论/学习方法论.md",
             "mode": "source",
             "backlinks": false,
             "source": true
           }
+        }
+      },
+      {
+        "id": "bbe24fedbd8c215e",
+        "type": "leaf",
+        "state": {
+          "type": "memos_view",
+          "state": {}
         }
       }
     ],
@@ -72,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "˜˜.md",
+                "file": "00-Tips/学习方法论/学习方法论.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "˜˜.md"
+                "file": "00-Tips/学习方法论/学习方法论.md"
               }
             }
           },
@@ -156,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "˜˜.md",
+                "file": "00-Tips/学习方法论/学习方法论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,15 +215,15 @@
   },
   "active": "60aafc9d8d91f321",
   "lastOpenFiles": [
-    "˜˜.md",
     "00-Tips/学习方法论/学习方法论.md",
-    "Untitled.md",
     "20-Diary/2022-01-25.md",
+    "Untitled.md",
+    "未命名.md",
+    "˜˜.md",
     "88-Template/日记模板.md",
     "88-Template/通用模板.md",
     "20-Diary/2022-01-24.md",
     "88-Template/彩色时钟.md",
-    "88-Template/home.md",
-    "88-Template/常用工具.md"
+    "88-Template/home.md"
   ]
 }
