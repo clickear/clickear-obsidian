@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-Tips/分布式系统/Raft.md",
+            "file": "00-Tips/分布式系统/分布式算法.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -26,7 +26,7 @@
       {
         "id": "4bc1edcafd063cfb",
         "type": "tabs",
-        "dimension": 72.84768211920529,
+        "dimension": 50.59602649006622,
         "children": [
           {
             "id": "37c8f55a8ef7a09c",
@@ -64,7 +64,7 @@
       {
         "id": "73be5873231122d7",
         "type": "tabs",
-        "dimension": 27.1523178807947,
+        "dimension": 49.40397350993378,
         "children": [
           {
             "id": "5bf15704f59604c6",
@@ -72,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-Tips/分布式系统/Raft.md",
+                "file": "00-Tips/分布式系统/分布式算法.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -95,7 +95,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.3137766896770824,
+                  "scale": 1.10955847242475,
                   "close": true
                 }
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Tips/分布式系统/Raft.md"
+                "file": "00-Tips/分布式系统/分布式算法.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Tips/分布式系统/Raft.md",
+                "file": "00-Tips/分布式系统/分布式算法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,15 +207,15 @@
   },
   "active": "af415c2d15983fe4",
   "lastOpenFiles": [
-    "00-Tips/分布式系统/Raft.md",
     "00-Tips/分布式系统/分布式算法.md",
+    "00-Tips/分布式系统/分布式系统导论.md",
+    "00-Tips/分布式系统/Raft.md",
     "00-Tips/分布式系统/领导者模型.md",
     "00-Tips/学习方法论/学习方法论.md",
     "00-Tips/学习方法论/阅读清单.md",
     "00-Tips/分布式系统/状态机复制.md",
     "00-Tips/分布式系统/Paxos.md",
     "00-Tips/分布式系统/Quorum机制.md",
-    "00-Tips/分布式系统/凤凰架构.md",
-    "00-Tips/分布式系统/最终一致性.md"
+    "00-Tips/分布式系统/凤凰架构.md"
   ]
 }

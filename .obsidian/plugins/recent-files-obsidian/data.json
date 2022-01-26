@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Raft",
-      "path": "00-Tips/分布式系统/Raft.md"
-    },
-    {
       "basename": "分布式算法",
       "path": "00-Tips/分布式系统/分布式算法.md"
+    },
+    {
+      "basename": "分布式系统导论",
+      "path": "00-Tips/分布式系统/分布式系统导论.md"
+    },
+    {
+      "basename": "Raft",
+      "path": "00-Tips/分布式系统/Raft.md"
     },
     {
       "basename": "领导者模型",
@@ -47,10 +51,6 @@
     {
       "basename": "CAP定理",
       "path": "00-Tips/分布式系统/CAP定理.md"
-    },
-    {
-      "basename": "分布式系统导论",
-      "path": "00-Tips/分布式系统/分布式系统导论.md"
     },
     {
       "basename": "可用性",
