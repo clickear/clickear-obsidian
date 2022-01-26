@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Raft",
+      "path": "00-Tips/分布式系统/Raft.md"
+    },
+    {
       "basename": "分布式算法",
       "path": "00-Tips/分布式系统/分布式算法.md"
     },
     {
+      "basename": "领导者模型",
+      "path": "00-Tips/分布式系统/领导者模型.md"
+    },
+    {
+      "basename": "学习方法论",
+      "path": "00-Tips/学习方法论/学习方法论.md"
+    },
+    {
+      "basename": "阅读清单",
+      "path": "00-Tips/学习方法论/阅读清单.md"
+    },
+    {
       "basename": "状态机复制",
-      "path": "状态机复制.md"
+      "path": "00-Tips/分布式系统/状态机复制.md"
+    },
+    {
+      "basename": "Paxos",
+      "path": "00-Tips/分布式系统/Paxos.md"
     },
     {
       "basename": "Quorum机制",
-      "path": "Quorum机制.md"
+      "path": "00-Tips/分布式系统/Quorum机制.md"
     },
     {
       "basename": "凤凰架构",
@@ -37,20 +57,12 @@
       "path": "00-Tips/分布式系统/可用性.md"
     },
     {
-      "basename": "学习方法论",
-      "path": "00-Tips/学习方法论/学习方法论.md"
-    },
-    {
       "basename": "教育",
       "path": "00-Tips/教育/教育.md"
     },
     {
       "basename": "孩子-挑战",
       "path": "00-Tips/教育/孩子-挑战.md"
-    },
-    {
-      "basename": "阅读清单",
-      "path": "00-Tips/学习方法论/阅读清单.md"
     },
     {
       "basename": "下载网站",
@@ -107,14 +119,6 @@
     {
       "basename": "baner0",
       "path": "99-Resource/banner/baner0.jpg"
-    },
-    {
-      "basename": "58b8a8d6e5e24648bc40e0c3180bfb37",
-      "path": "99-Resource/banner/58b8a8d6e5e24648bc40e0c3180bfb37.jpg"
-    },
-    {
-      "basename": "1dba4bae1ea2d360647c1a070bcb2068",
-      "path": "99-Resource/banner/1dba4bae1ea2d360647c1a070bcb2068.jpg"
     }
   ],
   "omittedPaths": [

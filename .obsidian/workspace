@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-Tips/分布式系统/分布式算法.md",
+            "file": "00-Tips/分布式系统/Raft.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-Tips/分布式系统/分布式算法.md",
+                "file": "00-Tips/分布式系统/Raft.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -95,7 +95,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.3005266930848436,
+                  "scale": 1.3137766896770824,
                   "close": true
                 }
               }
@@ -105,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320
+    "width": 486
   },
   "right": {
     "id": "4e390742ffc29613",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Tips/分布式系统/分布式算法.md"
+                "file": "00-Tips/分布式系统/Raft.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Tips/分布式系统/分布式算法.md",
+                "file": "00-Tips/分布式系统/Raft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,15 +207,15 @@
   },
   "active": "af415c2d15983fe4",
   "lastOpenFiles": [
+    "00-Tips/分布式系统/Raft.md",
     "00-Tips/分布式系统/分布式算法.md",
-    "状态机复制.md",
-    "Quorum机制.md",
+    "00-Tips/分布式系统/领导者模型.md",
+    "00-Tips/学习方法论/学习方法论.md",
+    "00-Tips/学习方法论/阅读清单.md",
+    "00-Tips/分布式系统/状态机复制.md",
+    "00-Tips/分布式系统/Paxos.md",
+    "00-Tips/分布式系统/Quorum机制.md",
     "00-Tips/分布式系统/凤凰架构.md",
-    "00-Tips/分布式系统/最终一致性.md",
-    "00-Tips/分布式系统/一致性.md",
-    "00-Tips/分布式系统/CAP定理.md",
-    "00-Tips/分布式系统/分布式系统导论.md",
-    "00-Tips/分布式系统/可用性.md",
-    "00-Tips/学习方法论/学习方法论.md"
+    "00-Tips/分布式系统/最终一致性.md"
   ]
 }
