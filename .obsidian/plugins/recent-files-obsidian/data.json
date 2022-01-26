@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "分布式算法",
+      "path": "00-Tips/分布式系统/分布式算法.md"
+    },
+    {
+      "basename": "最终一致性",
+      "path": "00-Tips/分布式系统/最终一致性.md"
+    },
+    {
+      "basename": "一致性",
+      "path": "00-Tips/分布式系统/一致性.md"
+    },
+    {
+      "basename": "CAP定理",
+      "path": "00-Tips/分布式系统/CAP定理.md"
+    },
+    {
+      "basename": "分布式系统导论",
+      "path": "00-Tips/分布式系统/分布式系统导论.md"
+    },
+    {
+      "basename": "可用性",
+      "path": "00-Tips/分布式系统/可用性.md"
+    },
+    {
+      "basename": "凤凰架构",
+      "path": "00-Tips/分布式系统/凤凰架构.md"
+    },
+    {
       "basename": "学习方法论",
       "path": "00-Tips/学习方法论/学习方法论.md"
     },

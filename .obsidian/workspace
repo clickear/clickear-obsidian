@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "60aafc9d8d91f321",
+        "id": "af415c2d15983fe4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-Tips/学习方法论/学习方法论.md",
+            "file": "00-Tips/分布式系统/分布式算法.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -26,7 +26,7 @@
       {
         "id": "4bc1edcafd063cfb",
         "type": "tabs",
-        "dimension": 63.70860927152317,
+        "dimension": 72.84768211920529,
         "children": [
           {
             "id": "37c8f55a8ef7a09c",
@@ -64,7 +64,7 @@
       {
         "id": "73be5873231122d7",
         "type": "tabs",
-        "dimension": 36.29139072847682,
+        "dimension": 27.1523178807947,
         "children": [
           {
             "id": "5bf15704f59604c6",
@@ -72,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-Tips/学习方法论/学习方法论.md",
+                "file": "00-Tips/分布式系统/分布式算法.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -95,7 +95,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.318223286091234,
+                  "scale": 0.9627604767513004,
                   "close": true
                 }
               }
@@ -105,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 320
   },
   "right": {
     "id": "4e390742ffc29613",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Tips/学习方法论/学习方法论.md"
+                "file": "00-Tips/分布式系统/分布式算法.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Tips/学习方法论/学习方法论.md",
+                "file": "00-Tips/分布式系统/分布式算法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,17 +205,17 @@
     "direction": "horizontal",
     "width": 273
   },
-  "active": "60aafc9d8d91f321",
+  "active": "af415c2d15983fe4",
   "lastOpenFiles": [
+    "00-Tips/分布式系统/分布式算法.md",
+    "00-Tips/分布式系统/最终一致性.md",
+    "00-Tips/分布式系统/一致性.md",
+    "00-Tips/分布式系统/CAP定理.md",
+    "00-Tips/分布式系统/分布式系统导论.md",
+    "00-Tips/分布式系统/可用性.md",
+    "00-Tips/分布式系统/凤凰架构.md",
     "00-Tips/学习方法论/学习方法论.md",
     "00-Tips/教育/教育.md",
-    "00-Tips/教育/孩子-挑战.md",
-    "00-Tips/学习方法论/阅读清单.md",
-    "00-Tips/Archive/下载网站.md",
-    "00-Tips/Archive/TablePlus.md",
-    "00-Tips/学习方法论/PARA.md",
-    "20-Diary/2022-01-25.md",
-    "20-Diary/2022-01-24.md",
-    "20-Diary/任务看板.md"
+    "00-Tips/教育/孩子-挑战.md"
   ]
 }
