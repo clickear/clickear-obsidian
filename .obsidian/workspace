@@ -95,7 +95,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.9627604767513004,
+                  "scale": 1.3005266930848436,
                   "close": true
                 }
               }
@@ -208,14 +208,14 @@
   "active": "af415c2d15983fe4",
   "lastOpenFiles": [
     "00-Tips/分布式系统/分布式算法.md",
+    "状态机复制.md",
+    "Quorum机制.md",
+    "00-Tips/分布式系统/凤凰架构.md",
     "00-Tips/分布式系统/最终一致性.md",
     "00-Tips/分布式系统/一致性.md",
     "00-Tips/分布式系统/CAP定理.md",
     "00-Tips/分布式系统/分布式系统导论.md",
     "00-Tips/分布式系统/可用性.md",
-    "00-Tips/分布式系统/凤凰架构.md",
-    "00-Tips/学习方法论/学习方法论.md",
-    "00-Tips/教育/教育.md",
-    "00-Tips/教育/孩子-挑战.md"
+    "00-Tips/学习方法论/学习方法论.md"
   ]
 }
