@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "分布式系统导论",
+      "path": "00-Tips/分布式系统/分布式系统导论.md"
+    },
+    {
+      "basename": "学习方法论",
+      "path": "00-Tips/学习方法论/学习方法论.md"
+    },
+    {
       "basename": "测试插件",
       "path": "00-Tips/测试插件.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Gossip",
       "path": "Gossip.md"
-    },
-    {
-      "basename": "分布式系统导论",
-      "path": "00-Tips/分布式系统/分布式系统导论.md"
     },
     {
       "basename": "孩子-挑战",
@@ -35,10 +39,6 @@
     {
       "basename": "阅读清单",
       "path": "00-Tips/学习方法论/阅读清单.md"
-    },
-    {
-      "basename": "学习方法论",
-      "path": "00-Tips/学习方法论/学习方法论.md"
     },
     {
       "basename": "拜占庭容错",

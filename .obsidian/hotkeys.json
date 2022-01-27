@@ -23,5 +23,26 @@
       "key": "H"
     }
   ],
-  "workspace:split-horizontal": []
+  "workspace:split-horizontal": [],
+  "obsidian-markmind:Change layout to mindmap": [],
+  "obsidian-markmind:Create New outline": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "O"
+    }
+  ],
+  "obsidian-markmind:Toggle to markdown or mindmap": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
+  ],
+  "obsidian-outliner:move-list-item-up": [],
+  "obsidian-outliner:unfold": []
 }
