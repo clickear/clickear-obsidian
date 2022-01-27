@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "拜占庭容错.md",
+            "file": "拜占庭问题.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "拜占庭容错.md",
+                "file": "拜占庭问题.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "拜占庭容错.md"
+                "file": "拜占庭问题.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "拜占庭容错.md",
+                "file": "拜占庭问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
   },
   "active": "da2203c57bbd98a8",
   "lastOpenFiles": [
-    "拜占庭容错.md",
+    "拜占庭问题.md",
     "00-Tips/分布式系统/分布式算法.md",
     "00-Tips/分布式系统/分布式系统导论.md",
     "00-Tips/教育/孩子-挑战.md",
