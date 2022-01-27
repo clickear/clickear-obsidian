@@ -4,13 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "68a0877f9d71a0a3",
+        "id": "8fe42e95fd78aeb1",
         "type": "leaf",
+        "dimension": 75.15527950310559,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-Tips/教育/孩子-挑战.md",
+            "file": "00-Tips/测试插件.md",
             "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "c1f3d5126951c205",
+        "type": "leaf",
+        "dimension": 24.84472049689441,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "00-Tips/分布式系统/分布式算法.md",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -72,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-Tips/教育/孩子-挑战.md",
+                "file": "00-Tips/测试插件.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -105,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386
+    "width": 302
   },
   "right": {
     "id": "4e390742ffc29613",
@@ -130,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Tips/教育/孩子-挑战.md"
+                "file": "00-Tips/测试插件.md"
               }
             }
           },
@@ -156,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Tips/教育/孩子-挑战.md",
+                "file": "00-Tips/测试插件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,17 +219,17 @@
     "direction": "horizontal",
     "width": 273
   },
-  "active": "68a0877f9d71a0a3",
+  "active": "8fe42e95fd78aeb1",
   "lastOpenFiles": [
+    "00-Tips/测试插件.md",
+    "00-Tips/分布式系统/分布式算法.md",
+    "Gossip.md",
+    "00-Tips/分布式系统/分布式系统导论.md",
     "00-Tips/教育/孩子-挑战.md",
     "00-Tips/教育/教育.md",
     "00-Tips/分布式系统/Paxos.md",
-    "00-Tips/分布式系统/分布式算法.md",
-    "00-Tips/分布式系统/分布式系统导论.md",
-    "Gossip.md",
     "00-Tips/分布式系统/可用性.md",
     "00-Tips/学习方法论/阅读清单.md",
-    "00-Tips/学习方法论/学习方法论.md",
-    "拜占庭容错.md"
+    "00-Tips/学习方法论/学习方法论.md"
   ]
 }

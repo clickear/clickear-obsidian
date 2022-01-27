@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "测试插件",
+      "path": "00-Tips/测试插件.md"
+    },
+    {
+      "basename": "分布式算法",
+      "path": "00-Tips/分布式系统/分布式算法.md"
+    },
+    {
+      "basename": "Gossip",
+      "path": "Gossip.md"
+    },
+    {
+      "basename": "分布式系统导论",
+      "path": "00-Tips/分布式系统/分布式系统导论.md"
+    },
+    {
       "basename": "孩子-挑战",
       "path": "00-Tips/教育/孩子-挑战.md"
     },
@@ -11,18 +27,6 @@
     {
       "basename": "Paxos",
       "path": "00-Tips/分布式系统/Paxos.md"
-    },
-    {
-      "basename": "分布式算法",
-      "path": "00-Tips/分布式系统/分布式算法.md"
-    },
-    {
-      "basename": "分布式系统导论",
-      "path": "00-Tips/分布式系统/分布式系统导论.md"
-    },
-    {
-      "basename": "Gossip",
-      "path": "Gossip.md"
     },
     {
       "basename": "可用性",
@@ -115,10 +119,6 @@
     {
       "basename": "wallhaven-zx89ew",
       "path": "99-Resource/banner/wallhaven-zx89ew.jpg"
-    },
-    {
-      "basename": "wallhaven-kw96x7",
-      "path": "99-Resource/banner/wallhaven-kw96x7.jpg"
     }
   ],
   "omittedPaths": [

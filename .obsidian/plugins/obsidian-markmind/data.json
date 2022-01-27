@@ -1,0 +1,20 @@
+{
+  "canvasSize": 8000,
+  "headLevel": 2,
+  "fontSize": 16,
+  "background": "transparent",
+  "layout": "mindmap",
+  "layoutDirect": "mind map",
+  "protocol": "jump-to-pdf",
+  "registerPdfEvent": true,
+  "viewerTheme": 2,
+  "mindmapmode": "basic",
+  "parseMindMap": true,
+  "setup": 1643265844343,
+  "openProtocol": 1,
+  "useMarkdownSaveAnnotation": "md",
+  "openCodeBlock": true,
+  "useAnimate": true,
+  "removeSpace": true,
+  "uid": "00p01000s00r00q01000t013012010013011013"
+}
