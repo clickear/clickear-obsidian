@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "教育",
+      "path": "00-Tips/教育/教育.md"
+    },
+    {
       "basename": "Paxos",
       "path": "00-Tips/分布式系统/Paxos.md"
     },
@@ -67,10 +71,6 @@
     {
       "basename": "CAP定理",
       "path": "00-Tips/分布式系统/CAP定理.md"
-    },
-    {
-      "basename": "教育",
-      "path": "00-Tips/教育/教育.md"
     },
     {
       "basename": "下载网站",

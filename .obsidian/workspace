@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-Tips/分布式系统/Paxos.md",
+            "file": "00-Tips/教育/教育.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-Tips/分布式系统/Paxos.md",
+                "file": "00-Tips/教育/教育.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Tips/分布式系统/Paxos.md"
+                "file": "00-Tips/教育/教育.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Tips/分布式系统/Paxos.md",
+                "file": "00-Tips/教育/教育.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,6 +206,7 @@
   },
   "active": "68a0877f9d71a0a3",
   "lastOpenFiles": [
+    "00-Tips/教育/教育.md",
     "00-Tips/分布式系统/Paxos.md",
     "00-Tips/分布式系统/分布式算法.md",
     "00-Tips/分布式系统/分布式系统导论.md",
@@ -214,7 +215,6 @@
     "00-Tips/教育/孩子-挑战.md",
     "00-Tips/学习方法论/阅读清单.md",
     "00-Tips/学习方法论/学习方法论.md",
-    "拜占庭容错.md",
-    "00-Tips/分布式系统/状态机复制.md"
+    "拜占庭容错.md"
   ]
 }
