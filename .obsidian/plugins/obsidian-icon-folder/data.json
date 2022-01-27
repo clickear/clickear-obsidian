@@ -14,7 +14,6 @@
       "left": 2
     }
   },
-  "00-Tips": "RiAwardLine",
   "10-Help": "RiBrush3Line",
   "20-Diary": "RiCalendarCheckLine",
   "88-Template": "RiArticleLine",
@@ -29,5 +28,6 @@
     "iconName": null,
     "inheritanceIcon": "RiAccountCircleLine"
   },
-  "99-Resource": "RiArchiveDrawerLine"
+  "99-Resource": "RiArchiveDrawerLine",
+  "00-Project": "RiAwardLine"
 }

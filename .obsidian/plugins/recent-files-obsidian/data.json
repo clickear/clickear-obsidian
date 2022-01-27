@@ -1,92 +1,96 @@
 {
   "recentFiles": [
     {
-      "basename": "拜占庭问题",
-      "path": "拜占庭问题.md"
-    },
-    {
-      "basename": "分布式算法",
-      "path": "00-Tips/分布式系统/分布式算法.md"
-    },
-    {
-      "basename": "分布式系统导论",
-      "path": "00-Tips/分布式系统/分布式系统导论.md"
-    },
-    {
-      "basename": "孩子-挑战",
-      "path": "00-Tips/教育/孩子-挑战.md"
-    },
-    {
-      "basename": "教育",
-      "path": "00-Tips/教育/教育.md"
-    },
-    {
-      "basename": "凤凰架构",
-      "path": "00-Tips/分布式系统/凤凰架构.md"
-    },
-    {
-      "basename": "学习方法论",
-      "path": "00-Tips/学习方法论/学习方法论.md"
-    },
-    {
-      "basename": "测试插件",
-      "path": "00-Tips/测试插件.md"
-    },
-    {
-      "basename": "Gossip",
-      "path": "00-Tips/分布式系统/Gossip.md"
-    },
-    {
-      "basename": "Paxos",
-      "path": "00-Tips/分布式系统/Paxos.md"
-    },
-    {
-      "basename": "可用性",
-      "path": "00-Tips/分布式系统/可用性.md"
-    },
-    {
-      "basename": "阅读清单",
-      "path": "00-Tips/学习方法论/阅读清单.md"
-    },
-    {
-      "basename": "状态机复制",
-      "path": "00-Tips/分布式系统/状态机复制.md"
-    },
-    {
-      "basename": "Quorum机制",
-      "path": "00-Tips/分布式系统/Quorum机制.md"
-    },
-    {
-      "basename": "Raft",
-      "path": "00-Tips/分布式系统/Raft.md"
-    },
-    {
-      "basename": "领导者模型",
-      "path": "00-Tips/分布式系统/领导者模型.md"
-    },
-    {
-      "basename": "最终一致性",
-      "path": "00-Tips/分布式系统/最终一致性.md"
-    },
-    {
-      "basename": "一致性",
-      "path": "00-Tips/分布式系统/一致性.md"
+      "basename": "分区容错性",
+      "path": "分区容错性.md"
     },
     {
       "basename": "CAP定理",
-      "path": "00-Tips/分布式系统/CAP定理.md"
+      "path": "00-Project/分布式系统/CAP定理.md"
+    },
+    {
+      "basename": "可用性",
+      "path": "00-Project/分布式系统/可用性.md"
+    },
+    {
+      "basename": "分布式系统导论",
+      "path": "00-Project/分布式系统/分布式系统导论.md"
+    },
+    {
+      "basename": "孩子-挑战",
+      "path": "00-Project/教育/孩子-挑战.md"
+    },
+    {
+      "basename": "拜占庭问题",
+      "path": "00-Project/分布式系统/拜占庭问题.md"
+    },
+    {
+      "basename": "分布式算法",
+      "path": "00-Project/分布式系统/分布式算法.md"
+    },
+    {
+      "basename": "凤凰架构",
+      "path": "00-Project/分布式系统/凤凰架构.md"
+    },
+    {
+      "basename": "教育",
+      "path": "00-Project/教育/教育.md"
+    },
+    {
+      "basename": "学习方法论",
+      "path": "00-Project/学习方法论/学习方法论.md"
+    },
+    {
+      "basename": "测试插件",
+      "path": "00-Project/测试插件.md"
+    },
+    {
+      "basename": "Gossip",
+      "path": "00-Project/分布式系统/Gossip.md"
+    },
+    {
+      "basename": "Paxos",
+      "path": "00-Project/分布式系统/Paxos.md"
+    },
+    {
+      "basename": "阅读清单",
+      "path": "00-Project/学习方法论/阅读清单.md"
+    },
+    {
+      "basename": "状态机复制",
+      "path": "00-Project/分布式系统/状态机复制.md"
+    },
+    {
+      "basename": "Quorum机制",
+      "path": "00-Project/分布式系统/Quorum机制.md"
+    },
+    {
+      "basename": "Raft",
+      "path": "00-Project/分布式系统/Raft.md"
+    },
+    {
+      "basename": "领导者模型",
+      "path": "00-Project/分布式系统/领导者模型.md"
+    },
+    {
+      "basename": "最终一致性",
+      "path": "00-Project/分布式系统/最终一致性.md"
+    },
+    {
+      "basename": "一致性",
+      "path": "00-Project/分布式系统/一致性.md"
     },
     {
       "basename": "下载网站",
-      "path": "00-Tips/Archive/下载网站.md"
+      "path": "00-Project/Archive/下载网站.md"
     },
     {
       "basename": "TablePlus",
-      "path": "00-Tips/Archive/TablePlus.md"
+      "path": "00-Project/Archive/TablePlus.md"
     },
     {
       "basename": "PARA",
-      "path": "00-Tips/学习方法论/PARA.md"
+      "path": "00-Project/学习方法论/PARA.md"
     },
     {
       "basename": "日记模板",

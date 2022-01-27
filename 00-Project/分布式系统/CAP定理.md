@@ -37,3 +37,7 @@ CAP 定理指的是在一个分布式系统中，Consistency（一致性）、 A
 
 # 扩展
 - [ ] [[服务发现是AP还是CP?]]
+
+# 资料
++ [cap定理-极客时间](https://book.clickear.top/114-%E5%88%86%E5%B8%83%E5%BC%8F%E5%8D%8F%E8%AE%AE%E4%B8%8E%E7%AE%97%E6%B3%95%E5%AE%9E%E6%88%98/01%E4%B8%A8%E7%90%86%E8%AE%BA%E7%AF%87%20(4%E8%AE%B2)/02%E4%B8%A8CAP%E7%90%86%E8%AE%BA%EF%BC%9A%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%9A%84PH%E8%AF%95%E7%BA%B8%EF%BC%8C%E7%94%A8%E5%AE%83%E6%9D%A5%E6%B5%8B%E9%85%B8%E7%A2%B1%E5%BA%A6.html)
+
