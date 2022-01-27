@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "孩子-挑战",
-      "path": "00-Tips/教育/孩子-挑战.md"
+      "basename": "拜占庭容错",
+      "path": "拜占庭容错.md"
     },
     {
       "basename": "分布式算法",
       "path": "00-Tips/分布式系统/分布式算法.md"
     },
     {
-      "basename": "凤凰架构",
-      "path": "00-Tips/分布式系统/凤凰架构.md"
-    },
-    {
       "basename": "分布式系统导论",
       "path": "00-Tips/分布式系统/分布式系统导论.md"
+    },
+    {
+      "basename": "孩子-挑战",
+      "path": "00-Tips/教育/孩子-挑战.md"
+    },
+    {
+      "basename": "教育",
+      "path": "00-Tips/教育/教育.md"
+    },
+    {
+      "basename": "凤凰架构",
+      "path": "00-Tips/分布式系统/凤凰架构.md"
     },
     {
       "basename": "学习方法论",
@@ -29,10 +37,6 @@
       "path": "00-Tips/分布式系统/Gossip.md"
     },
     {
-      "basename": "教育",
-      "path": "00-Tips/教育/教育.md"
-    },
-    {
       "basename": "Paxos",
       "path": "00-Tips/分布式系统/Paxos.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "阅读清单",
       "path": "00-Tips/学习方法论/阅读清单.md"
-    },
-    {
-      "basename": "拜占庭容错",
-      "path": "拜占庭容错.md"
     },
     {
       "basename": "状态机复制",
