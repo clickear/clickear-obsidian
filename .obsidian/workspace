@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8fe42e95fd78aeb1",
+        "id": "ecfbb85a4b39a0ac",
         "type": "leaf",
         "state": {
-          "type": "mindmapview",
+          "type": "markdown",
           "state": {
-            "file": "00-Tips/分布式系统/分布式系统导论.md"
+            "file": "00-Tips/教育/孩子-挑战.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
           }
         }
       }
@@ -69,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-Tips/分布式系统/分布式系统导论.md",
+                "file": "00-Tips/教育/孩子-挑战.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -111,7 +114,7 @@
       {
         "id": "d4c25b22f0c7d5f0",
         "type": "tabs",
-        "dimension": 50.59602649006622,
+        "dimension": 69.80132450331126,
         "children": [
           {
             "id": "ca4e910af4602420",
@@ -127,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Tips/分布式系统/分布式系统导论.md"
+                "file": "00-Tips/教育/孩子-挑战.md"
               }
             }
           },
@@ -145,7 +148,7 @@
       {
         "id": "0b3485207df574dd",
         "type": "tabs",
-        "dimension": 49.40397350993378,
+        "dimension": 30.198675496688743,
         "children": [
           {
             "id": "041c78328387b373",
@@ -153,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Tips/分布式系统/分布式系统导论.md",
+                "file": "00-Tips/教育/孩子-挑战.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,23 +198,24 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 273
   },
-  "active": "8fe42e95fd78aeb1",
+  "active": "ecfbb85a4b39a0ac",
   "lastOpenFiles": [
+    "00-Tips/教育/孩子-挑战.md",
+    "00-Tips/分布式系统/分布式算法.md",
+    "00-Tips/分布式系统/凤凰架构.md",
+    "未命名思维导图.md",
     "00-Tips/分布式系统/分布式系统导论.md",
     "00-Tips/学习方法论/学习方法论.md",
     "00-Tips/测试插件.md",
-    "00-Tips/分布式系统/分布式算法.md",
-    "Gossip.md",
-    "00-Tips/教育/孩子-挑战.md",
+    "00-Tips/分布式系统/Gossip.md",
     "00-Tips/教育/教育.md",
-    "00-Tips/分布式系统/Paxos.md",
-    "00-Tips/分布式系统/可用性.md",
-    "00-Tips/学习方法论/阅读清单.md"
+    "00-Tips/分布式系统/Paxos.md"
   ]
 }

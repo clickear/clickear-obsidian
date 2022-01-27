@@ -44,5 +44,14 @@
     }
   ],
   "obsidian-outliner:move-list-item-up": [],
-  "obsidian-outliner:unfold": []
+  "obsidian-outliner:unfold": [],
+  "obsidian-outliner:fold": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowUp"
+    }
+  ]
 }
