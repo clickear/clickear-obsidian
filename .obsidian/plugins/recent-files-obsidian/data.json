@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Paxos",
+      "path": "00-Tips/分布式系统/Paxos.md"
+    },
+    {
       "basename": "分布式算法",
       "path": "00-Tips/分布式系统/分布式算法.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "学习方法论",
       "path": "00-Tips/学习方法论/学习方法论.md"
-    },
-    {
-      "basename": "Paxos",
-      "path": "00-Tips/分布式系统/Paxos.md"
     },
     {
       "basename": "拜占庭容错",
