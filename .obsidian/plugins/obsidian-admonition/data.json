@@ -1,15 +1,5 @@
 {
   "userAdmonitions": {
-    "blank": {
-      "type": "blank",
-      "color": "255, 255, 255",
-      "icon": {
-        "name": "border-style",
-        "type": "font-awesome"
-      },
-      "command": false,
-      "title": " "
-    },
     "thm": {
       "type": "thm",
       "color": "41, 187, 22",
@@ -94,18 +84,6 @@
       "injectColor": true,
       "noTitle": true
     },
-    "hibox": {
-      "type": "hibox",
-      "color": "68, 161, 243",
-      "icon": {
-        "name": "adjust",
-        "type": "font-awesome"
-      },
-      "command": false,
-      "injectColor": true,
-      "noTitle": true,
-      "copy": false
-    },
     "flex": {
       "type": "flex",
       "color": "#7d7d7d",
@@ -113,7 +91,7 @@
         "name": "ad",
         "type": "font-awesome"
       },
-      "command": false,
+      "command": true,
       "injectColor": true,
       "noTitle": true,
       "copy": false
@@ -125,9 +103,34 @@
         "name": "ad",
         "type": "font-awesome"
       },
-      "command": false,
+      "command": true,
       "injectColor": true,
       "noTitle": true
+    },
+    "blank": {
+      "type": "blank",
+      "color": "255, 255, 255",
+      "icon": {
+        "name": "border-style",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": " ",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "hibox": {
+      "type": "hibox",
+      "color": "68, 161, 243",
+      "icon": {
+        "name": "adjust",
+        "type": "font-awesome"
+      },
+      "command": true,
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
     }
   },
   "syntaxHighlight": true,

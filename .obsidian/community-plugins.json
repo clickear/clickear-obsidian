@@ -25,5 +25,7 @@
   "cmenu-plugin",
   "obsidian-icon-folder",
   "obsidian-shellcommands",
-  "obsidian-git"
+  "obsidian-git",
+  "emoji-shortcodes",
+  "obsidian-auto-link-title"
 ]
