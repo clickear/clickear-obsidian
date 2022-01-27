@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Paxos",
+      "path": "00-Project/分布式系统/Paxos.md"
+    },
+    {
+      "basename": "MultiPaxos",
+      "path": "00-Project/分布式系统/MultiPaxos.md"
+    },
+    {
       "basename": "分布式系统导论",
       "path": "00-Project/分布式系统/分布式系统导论.md"
     },
@@ -81,10 +89,6 @@
       "path": "00-Project/分布式系统/Gossip.md"
     },
     {
-      "basename": "Paxos",
-      "path": "00-Project/分布式系统/Paxos.md"
-    },
-    {
       "basename": "阅读清单",
       "path": "00-Project/学习方法论/阅读清单.md"
     },
@@ -115,10 +119,6 @@
     {
       "basename": "日记模板",
       "path": "88-Template/日记模板.md"
-    },
-    {
-      "basename": "通用模板",
-      "path": "88-Template/通用模板.md"
     }
   ],
   "omittedPaths": [
