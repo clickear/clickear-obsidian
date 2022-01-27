@@ -4,23 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "da2203c57bbd98a8",
-        "type": "leaf",
-        "state": {
-          "type": "mindmapview",
-          "state": {
-            "file": "00-Project/分布式系统/分布式系统导论.md"
-          }
-        }
-      },
-      {
-        "id": "39740bb8ce8e967a",
+        "id": "504a1cf1ed0937fb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "分区容错性.md",
-            "mode": "source",
+            "file": "00-Project/分布式系统/ACID.md",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -36,7 +26,7 @@
       {
         "id": "4bc1edcafd063cfb",
         "type": "tabs",
-        "dimension": 50.59602649006622,
+        "dimension": 73.50993377483444,
         "children": [
           {
             "id": "37c8f55a8ef7a09c",
@@ -52,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cap定",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,13 +59,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "73be5873231122d7",
         "type": "tabs",
-        "dimension": 49.40397350993378,
+        "dimension": 26.490066225165563,
         "children": [
           {
             "id": "5bf15704f59604c6",
@@ -83,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "分区容错性.md",
+                "file": "00-Project/分布式系统/ACID.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -116,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100,
-    "collapsed": true
+    "width": 439
   },
   "right": {
     "id": "4e390742ffc29613",
@@ -142,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "分区容错性.md"
+                "file": "00-Project/分布式系统/ACID.md"
               }
             }
           },
@@ -168,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "分区容错性.md",
+                "file": "00-Project/分布式系统/ACID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,20 +203,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273,
-    "collapsed": true
+    "width": 273
   },
-  "active": "39740bb8ce8e967a",
+  "active": "504a1cf1ed0937fb",
   "lastOpenFiles": [
-    "分区容错性.md",
-    "00-Project/分布式系统/CAP定理.md",
-    "00-Project/分布式系统/可用性.md",
+    "00-Project/分布式系统/ACID.md",
+    "00-Project/分布式系统/一致性.md",
     "00-Project/分布式系统/分布式系统导论.md",
-    "00-Project/教育/孩子-挑战.md",
-    "00-Project/分布式系统/拜占庭问题.md",
+    "00-Project/分布式系统/BASE理论.md",
+    "00-Project/分布式系统/CAP定理.md",
+    "00-Project/学习方法论/学习方法论.md",
     "00-Project/分布式系统/分布式算法.md",
-    "00-Project/分布式系统/凤凰架构.md",
-    "00-Project/教育/教育.md",
-    "未命名思维导图.md"
+    "00-Project/分布式系统/Quorum机制.md",
+    "00-Project/分布式系统/MQ.md",
+    "00-Project/分布式系统/Raft.md"
   ]
 }
