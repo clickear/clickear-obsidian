@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-Tips/学习方法论/学习方法论.md",
+            "file": "00-Tips/分布式系统/分布式算法.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -72,9 +72,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-Tips/学习方法论/学习方法论.md",
+                "file": "00-Tips/分布式系统/分布式算法.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -83,9 +83,9 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [],
-                  "collapse-display": true,
+                  "collapse-display": false,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
@@ -95,7 +95,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.10955847242475,
+                  "scale": 1.0128139178608697,
                   "close": true
                 }
               }
@@ -105,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235
+    "width": 386
   },
   "right": {
     "id": "4e390742ffc29613",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Tips/学习方法论/学习方法论.md"
+                "file": "00-Tips/分布式系统/分布式算法.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Tips/学习方法论/学习方法论.md",
+                "file": "00-Tips/分布式系统/分布式算法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,8 +198,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,15 +206,15 @@
   },
   "active": "af415c2d15983fe4",
   "lastOpenFiles": [
+    "00-Tips/分布式系统/分布式算法.md",
+    "00-Tips/分布式系统/分布式系统导论.md",
+    "Gossip.md",
+    "00-Tips/分布式系统/可用性.md",
+    "00-Tips/教育/孩子-挑战.md",
+    "00-Tips/学习方法论/阅读清单.md",
     "00-Tips/学习方法论/学习方法论.md",
     "00-Tips/分布式系统/Paxos.md",
     "拜占庭容错.md",
-    "00-Tips/分布式系统/分布式算法.md",
-    "00-Tips/分布式系统/分布式系统导论.md",
-    "00-Tips/分布式系统/状态机复制.md",
-    "00-Tips/分布式系统/Quorum机制.md",
-    "00-Tips/分布式系统/Raft.md",
-    "00-Tips/分布式系统/领导者模型.md",
-    "00-Tips/学习方法论/阅读清单.md"
+    "00-Tips/分布式系统/状态机复制.md"
   ]
 }
