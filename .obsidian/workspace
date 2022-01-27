@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-Project/分布式系统/ACID.md",
+            "file": "00-Project/分布式系统/分布式系统导论.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-Project/分布式系统/ACID.md",
+                "file": "00-Project/分布式系统/分布式系统导论.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -105,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439
+    "width": 292
   },
   "right": {
     "id": "4e390742ffc29613",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Project/分布式系统/ACID.md"
+                "file": "00-Project/分布式系统/分布式系统导论.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Project/分布式系统/ACID.md",
+                "file": "00-Project/分布式系统/分布式系统导论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,15 +207,15 @@
   },
   "active": "504a1cf1ed0937fb",
   "lastOpenFiles": [
-    "00-Project/分布式系统/ACID.md",
-    "00-Project/分布式系统/一致性.md",
     "00-Project/分布式系统/分布式系统导论.md",
+    "00-Project/分布式系统/ACID.md",
+    "00-Project/分布式系统/2PC.md",
+    "00-Project/分布式系统/一致性.md",
     "00-Project/分布式系统/BASE理论.md",
     "00-Project/分布式系统/CAP定理.md",
     "00-Project/学习方法论/学习方法论.md",
     "00-Project/分布式系统/分布式算法.md",
     "00-Project/分布式系统/Quorum机制.md",
-    "00-Project/分布式系统/MQ.md",
-    "00-Project/分布式系统/Raft.md"
+    "00-Project/分布式系统/MQ.md"
   ]
 }

@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "分布式系统导论",
+      "path": "00-Project/分布式系统/分布式系统导论.md"
+    },
+    {
       "basename": "ACID",
       "path": "00-Project/分布式系统/ACID.md"
     },
     {
-      "basename": "一致性",
-      "path": "00-Project/分布式系统/一致性.md"
+      "basename": "2PC",
+      "path": "00-Project/分布式系统/2PC.md"
     },
     {
-      "basename": "分布式系统导论",
-      "path": "00-Project/分布式系统/分布式系统导论.md"
+      "basename": "一致性",
+      "path": "00-Project/分布式系统/一致性.md"
     },
     {
       "basename": "BASE理论",
@@ -115,10 +119,6 @@
     {
       "basename": "通用模板",
       "path": "88-Template/通用模板.md"
-    },
-    {
-      "basename": "彩色时钟",
-      "path": "88-Template/彩色时钟.md"
     }
   ],
   "omittedPaths": [
