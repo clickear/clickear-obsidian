@@ -89,12 +89,44 @@ Raft日志同步保证如下两点: （特指的是已提交的日志）
 2. 如果不同日志中的两个条目有着相同的索引和任期号, 则它们之前的所有条目都是完全一样的. 
 3. 如果有部分日志未提交，不一致。会被leader覆盖。
 
+### Followers日志不一致怎么处理？
+![](http://image.clickear.top/20220128182117.png)
+> 总结起来，就是Leader会**从后往前试**, 每次AppendEntries失败后尝试前一个日志条目, 直到成功找到每个Follower的日志一致位点, 然后向后逐条覆盖Followers在该位置之后的条目。根据term_id和index来判断
+
+上图阐述了一些Followers可能和新的Leader日志不同的情况. 一个Follower可能会丢失掉Leader上的一些条目, 也有可能包含一些Leader没有的条目, 也有可能两者都会发生. 丢失的或者多出来的条目可能会持续多个任期. 
+Leader通过强制Followers复制它的日志来处理日志的不一致, Followers上的不一致的日志会被Leader的日志覆盖。
+Leader为了使Followers的日志同自己的一致, Leader需要找到Followers同它的日志一致的地方, 然后覆盖Followers在该位置之后的条目.。
+Leader会从后往前试, 每次AppendEntries失败后尝试前一个日志条目, 直到成功找到每个Follower的日志一致位点, 然后向后逐条覆盖Followers在该位置之后的条目
+
+## 安全性
+Raft增加了如下两条限制以保证安全性: 
+
++ ==拥有最新的已提交的log entry的Follower才有资格成为Leader==. 
+这个保证是在RequestVote RPC中做的, Candidate在发送RequestVote RPC时, 要带上自己的最后一条日志的term和log index, 其他节点收到消息时, 如果发现自己的日志比请求中携带的更新, 则拒绝投票. 日志比较的原则是, 如果本地的最后一条log entry的term更大, 则term大的更新, 如果term一样大, 则log index更大的更新. 
+
++ Leader只能推进commit index来提交当前term的已经复制到大多数服务器上的日志, 旧term日志的提交要等到提交当前term的日志来间接提交(log index 小于 commit index的日志被间接提交)
+
+![](http://image.clickear.top/20220128182459.png)
+
+在阶段a, term为2, S1是Leader, 且S1写入日志(term, index)为(2, 2), 并且日志被同步写入了S2; 
+
+在阶段b, S1离线, 触发一次新的选主, 此时S5被选为新的Leader, 此时系统term为3, 且写入了日志(term, index)为(3,  2);
+
+S5尚未将日志推送到Followers就离线了, 进而触发了一次新的选主, 而之前离线的S1经过重新上线后被选中变成Leader, 此时系统term为4, 此时S1会将自己的日志同步到Followers, 按照上图就是将日志(2,  2)同步到了S3, 而此时由于该日志已经被同步到了多数节点(S1, S2, S3), 因此, 此时日志(2, 2)可以被提交了. ; 
+
+在阶段d, S1又下线了, 触发一次选主, 而S5有可能被选为新的Leader(这是因为S5可以满足作为主的一切条件: 1. term = 5 > 4, 2. 最新的日志为(3, 2), 比大多数节点(如S2/S3/S4的日志都新), 然后S5会将自己的日志更新到Followers, 于是S2, S3中已经被提交的日志(2, 2)被截断了. 
+
+增加上述限制后, 即使日志(2, 2)已经被大多数节点(S1, S2, S3)确认了, 但是它不能被提交, 因为它是来自之前term(2)的日志, 直到S1在当前term(4)产生的日志(4,  4)被大多数Followers确认, S1方可提交日志(4, 4)这条日志, 当然, 根据Raft定义, (4, 4)之前的所有日志也会被提交. 此时即使S1再下线, 重新选主时S5不可能成为Leader, 因为它没有包含大多数节点已经拥有的日志(4, 4).
+
+
+
+
 ## 演进
 
 ![[分布式算法#paxos的算法演进]]
 
 
-## Multipaxos、ZAB、Raft为什么是等价算法？
+### Multipaxos、ZAB、Raft为什么是等价算法？
 ![[分布式算法#MultiPaxos 、 ZAB 、 Raft 为什么是等价算法？]]
 
 
