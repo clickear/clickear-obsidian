@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Paxos",
       "path": "00-Project/分布式系统/Paxos.md"
     },
@@ -115,10 +119,6 @@
     {
       "basename": "PARA",
       "path": "00-Project/学习方法论/PARA.md"
-    },
-    {
-      "basename": "日记模板",
-      "path": "88-Template/日记模板.md"
     }
   ],
   "omittedPaths": [
