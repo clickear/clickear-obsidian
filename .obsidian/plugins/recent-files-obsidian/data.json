@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "MultiPaxos",
+      "path": "00-Project/分布式系统/MultiPaxos.md"
+    },
+    {
+      "basename": "分布式算法",
+      "path": "00-Project/分布式系统/分布式算法.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
     {
       "basename": "Paxos",
       "path": "00-Project/分布式系统/Paxos.md"
-    },
-    {
-      "basename": "MultiPaxos",
-      "path": "00-Project/分布式系统/MultiPaxos.md"
     },
     {
       "basename": "分布式系统导论",
@@ -39,10 +43,6 @@
     {
       "basename": "学习方法论",
       "path": "00-Project/学习方法论/学习方法论.md"
-    },
-    {
-      "basename": "分布式算法",
-      "path": "00-Project/分布式系统/分布式算法.md"
     },
     {
       "basename": "Quorum机制",

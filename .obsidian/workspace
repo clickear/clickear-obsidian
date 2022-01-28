@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "preview",
+            "file": "00-Project/分布式系统/MultiPaxos.md",
+            "mode": "source",
             "backlinks": false,
             "source": false
           }
@@ -72,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "00-Project/分布式系统/MultiPaxos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "00-Project/分布式系统/MultiPaxos.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "00-Project/分布式系统/MultiPaxos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,15 +207,15 @@
   },
   "active": "f3ad062a5f55a6f6",
   "lastOpenFiles": [
+    "00-Project/分布式系统/MultiPaxos.md",
+    "00-Project/分布式系统/分布式算法.md",
     "README.md",
     "20-Diary/2022-01-28.md",
     "00-Project/分布式系统/Paxos.md",
-    "00-Project/分布式系统/MultiPaxos.md",
     "00-Project/分布式系统/分布式系统导论.md",
     "00-Project/分布式系统/ACID.md",
     "00-Project/分布式系统/2PC.md",
     "00-Project/分布式系统/一致性.md",
-    "00-Project/分布式系统/BASE理论.md",
-    "00-Project/分布式系统/CAP定理.md"
+    "00-Project/分布式系统/BASE理论.md"
   ]
 }
