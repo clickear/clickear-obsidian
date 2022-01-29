@@ -15,6 +15,19 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "dd9019ba1f5ee171",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "00-Project/分布式系统/分布式算法.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -203,7 +216,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273
+    "width": 100
   },
   "active": "f3ad062a5f55a6f6",
   "lastOpenFiles": [
