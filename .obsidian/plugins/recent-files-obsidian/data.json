@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "ZAB",
-      "path": "00-Project/分布式系统/ZAB.md"
+      "basename": "PBFT",
+      "path": "00-Project/分布式系统/PBFT.md"
+    },
+    {
+      "basename": "分布式算法",
+      "path": "00-Project/分布式系统/分布式算法.md"
+    },
+    {
+      "basename": "Quorum NWR",
+      "path": "00-Project/分布式系统/Quorum NWR.md"
     },
     {
       "basename": "Raft",
       "path": "00-Project/分布式系统/Raft.md"
     },
     {
-      "basename": "分布式算法",
-      "path": "00-Project/分布式系统/分布式算法.md"
+      "basename": "ZAB",
+      "path": "00-Project/分布式系统/ZAB.md"
     },
     {
       "basename": "MultiPaxos",
@@ -111,14 +119,6 @@
     {
       "basename": "最终一致性",
       "path": "00-Project/分布式系统/最终一致性.md"
-    },
-    {
-      "basename": "下载网站",
-      "path": "00-Project/Archive/下载网站.md"
-    },
-    {
-      "basename": "TablePlus",
-      "path": "00-Project/Archive/TablePlus.md"
     }
   ],
   "omittedPaths": [
