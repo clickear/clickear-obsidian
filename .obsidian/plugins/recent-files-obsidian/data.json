@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "PBFT",
-      "path": "00-Project/分布式系统/PBFT.md"
-    },
-    {
       "basename": "分布式算法",
       "path": "00-Project/分布式系统/分布式算法.md"
+    },
+    {
+      "basename": "PBFT",
+      "path": "00-Project/分布式系统/PBFT.md"
     },
     {
       "basename": "Quorum NWR",
