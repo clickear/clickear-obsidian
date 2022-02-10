@@ -196,3 +196,4 @@ client 发送写操作请求给 Leader，Leader 接收完数据后开始向 Foll
 # 资料
 + [Raft协议详解 - 知乎](https://zhuanlan.zhihu.com/p/27207160) ⭐
 + [Raft算法详解 - 知乎](https://zhuanlan.zhihu.com/p/32052223) ⭐
++ [SOFAJRaft 介绍 · SOFAStack](https://www.sofastack.tech/projects/sofa-jraft/overview/)

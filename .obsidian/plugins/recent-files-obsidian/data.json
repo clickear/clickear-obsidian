@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Raft",
+      "path": "00-Project/分布式系统/Raft.md"
+    },
+    {
+      "basename": "拜占庭问题",
+      "path": "00-Project/分布式系统/拜占庭问题.md"
+    },
+    {
+      "basename": "POW",
+      "path": "00-Project/分布式系统/POW.md"
+    },
+    {
       "basename": "分布式算法",
       "path": "00-Project/分布式系统/分布式算法.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "Quorum NWR",
       "path": "00-Project/分布式系统/Quorum NWR.md"
-    },
-    {
-      "basename": "Raft",
-      "path": "00-Project/分布式系统/Raft.md"
     },
     {
       "basename": "ZAB",
@@ -93,10 +101,6 @@
       "path": "00-Project/教育/孩子-挑战.md"
     },
     {
-      "basename": "拜占庭问题",
-      "path": "00-Project/分布式系统/拜占庭问题.md"
-    },
-    {
       "basename": "凤凰架构",
       "path": "00-Project/分布式系统/凤凰架构.md"
     },
@@ -115,10 +119,6 @@
     {
       "basename": "状态机复制",
       "path": "00-Project/分布式系统/状态机复制.md"
-    },
-    {
-      "basename": "最终一致性",
-      "path": "00-Project/分布式系统/最终一致性.md"
     }
   ],
   "omittedPaths": [
