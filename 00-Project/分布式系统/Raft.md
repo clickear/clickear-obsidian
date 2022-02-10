@@ -98,6 +98,20 @@ Leader为了使Followers的日志同自己的一致, Leader需要找到Followers
 Leader会从后往前试, 每次AppendEntries失败后尝试前一个日志条目, 直到成功找到每个Follower的日志一致位点, 然后向后逐条覆盖Followers在该位置之后的条目
 
 
+### commitIndex推进
+![](http://image.clickear.top/20220210102908.png)
+-   CommitIndex `(TermId, LogIndex)`：
+    -   所谓 commitIndex，就是已达成多数派，可以应用到状态机的最新的日志位置
+    -   日志被复制到 followers 后，先持久化，并不能马上被应用到状态机
+    -   只有 leader 知道日志是否达成多数派，是否可以应用到状态机
+    -   Followers 记录 leader 发来的当前 commitIndex，所有小于等于 commitIndex 的日志均可以应用到状态机
+-   CommitIndex推进：
+    -   Leader 在下一个 AppendEntries RPC (也包括 Heartbeat)中携带当前的 commitIndex
+    -   Followers 检查日志有效性通过则接受 AppendEntries 并同时更新本地 commitIndex，最后把所有小于等于 commitIndex 的日志应用到状态机
+
+
+
+
 ## 安全性
 Raft增加了如下两条限制以保证安全性: 
 
