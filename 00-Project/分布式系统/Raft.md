@@ -16,6 +16,9 @@
 + 这是一种通过对日志进行管理来达到一致性的算法，其是一种 [[AP]] 的一致性算法。Raft 通过选举 Leader 并由 Leader 节点负责管理日志复制来实现各个节点间数据的一致性。
 
 ## 三种角色
+![](http://image.clickear.top/20220210103739.png)
+> 跟随者只响应来自其他服务器的请求。如果跟随者接收不到消息，那么他就会变成候选人并发起一次选举。获得集群中大多数选票的候选人将成为领导者。在一个任期内，领导人一直都会是领导人直到自己宕机了.
+
 在 Raft 中，节点有三种角色： 
 ### Leader：
 唯一负责处理客户端写请求的节点；也可以处理客户端读请求；同时负责日志复制工作。[[状态机复制]]
@@ -24,6 +27,7 @@ Leader 选举的候选人，其可能会成为 Leader
 ### Follower：
 可以处理客户端读请求；负责同步来自于 Leader 的日志；当接收到其它 Cadidate 的投票请求后可以进行投票；当发现 Leader 挂了，其会转变为 Candidate 发起 Leader 选举。
 term，任期，相当于 Paxos 中的 epoch，表示一个新的 leader 上任了。
+
 
 ## 动画
 [RAFT动画演示](http://thesecretlivesofdata.com/raft/)
@@ -127,7 +131,6 @@ Raft增加了如下两条限制以保证安全性:
 S5尚未将日志推送到Followers就离线了, 进而触发了一次新的选主, 而之前离线的S1经过重新上线后被选中变成Leader, 此时系统term为4, 此时S1会将自己的日志同步到Followers, 按照上图就是将日志(2,  2)同步到了S3, 而此时由于该日志已经被同步到了多数节点(S1, S2, S3), 因此, 此时日志(2, 2)可以被提交了. ; 
 
 在阶段d, S1又下线了, 触发一次选主, 而S5有可能被选为新的Leader(这是因为S5可以满足作为主的一切条件: 1. term = 5 > 4, 2. 最新的日志为(3, 2), 比大多数节点(如S2/S3/S4的日志都新), 然后S5会将自己的日志更新到Followers, 于是S2, S3中已经被提交的日志(2, 2)被截断了. 
-
 增加上述限制后, 即使日志(2, 2)已经被大多数节点(S1, S2, S3)确认了, 但是它不能被提交, 因为它是来自之前term(2)的日志, 直到S1在当前term(4)产生的日志(4,  4)被大多数Followers确认, S1方可提交日志(4, 4)这条日志, 当然, 根据Raft定义, (4, 4)之前的所有日志也会被提交. 此时即使S1再下线, 重新选主时S5不可能成为Leader, 因为它没有包含大多数节点已经拥有的日志(4, 4).
 > 个人理解为，如果未提交到大多数节点，也就不算commit。
 
@@ -135,9 +138,7 @@ S5尚未将日志推送到Followers就离线了, 进而触发了一次新的选�
 在实际的系统中, 不能让日志无限增长, 否则系统重启时需要花很长的时间进行回放, 从而影响可用性. Raft采用对整个系统进行[[快照 |snapshot]]来解决, snapshot之前的日志都可以丢弃. 
 
 每个副本独立的对自己的系统状态进行snapshot, 并且只能对已经提交的日志记录进行snapshot. 
-
 Snapshot中包含以下内容: 
-
 + 日志元数据. 最后一条已提交的 log entry的 log index和term. 这两个值在snapshot之后的第一条log entry的AppendEntries RPC的完整性检查的时候会被用上. 
 + 系统当前状态. 
 当Leader要发给某个日志落后太多的Follower的log entry被丢弃, Leader会将snapshot发给Follower. 或者当新加进一台机器时, 也会发送snapshot给它. 发送snapshot使用InstalledSnapshot RPC(RPC细节参见八, Raft算法总结). 
@@ -211,3 +212,4 @@ client 发送写操作请求给 Leader，Leader 接收完数据后开始向 Foll
 + [Raft协议详解 - 知乎](https://zhuanlan.zhihu.com/p/27207160) ⭐
 + [Raft算法详解 - 知乎](https://zhuanlan.zhihu.com/p/32052223) ⭐
 + [SOFAJRaft 介绍 · SOFAStack](https://www.sofastack.tech/projects/sofa-jraft/overview/)
++ [GitHub - DanielJyc/raft-simple: raft协议的Java版本简单实现](https://github.com/DanielJyc/raft-simple)
