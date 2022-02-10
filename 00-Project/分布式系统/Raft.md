@@ -2,6 +2,10 @@
 
 
 # 常青笔记
++ 通过领导人的方式，Raft 将一致性问题分解成了三个相对独立的子问题：
+	-   **领导选举**：当现存的领导人发生故障的时候, 一个新的领导人需要被选举出来
+	-   **日志复制**：领导人必须从客户端接收日志条目（log entries）然后复制到集群中的其他节点，并强制要求其他节点的日志和自己保持一致。
+	-   **安全性**：在 Raft 中安全性的关键是在图 3 中展示的状态机安全：如果有任何的服务器节点已经应用了一个确定的日志条目到它的状态机中，那么其他服务器节点不能在同一个日志索引位置应用一个不同的指令。章节 5.4 阐述了 Raft 算法是如何保证这个特性的；这个解决方案涉及到选举机制（5.2 节）上的一个额外限制。
 + Raft 算法属于 [[MultiPaxos]] 算法，它是在兰伯特 Multi-Paxos 思想的基础上，做了一些简化和限制，比如增加了**日志必须是连续的**，只支持领导者、跟随者和候选人三种状态，在理解和算法实现上都相对容易许多。
 + 选主过程，基于[[多数派]] 进行选举。也是[[领导者模型]]，即只有1个提案者。解决了活锁问题。当票数相同时，使用**随机超时心跳**。通过**心跳**来检测存活性，如果超时了，则重新发起选择leader。
 + 通过主节点来发起写操作，并进行日志复制。基于[[状态机复制]] 的日志复制来实现各个节点的数据一致性。
@@ -207,6 +211,13 @@ client 发送写操作请求给 Leader，Leader 接收完数据后开始向 Foll
 由于 Stale Leader 已经向 client 发送成功接收响应，且 apply 通知已经发出，说明这个写操作请求已经被 server 成功处理。
 
 
+# 源码学习
+ [GitHub - DanielJyc/raft-simple: raft协议的Java版本简单实现](https://github.com/DanielJyc/raft-simple)
+
+
+
+
+
 
 # 资料
 + [Raft协议详解 - 知乎](https://zhuanlan.zhihu.com/p/27207160) ⭐
@@ -215,3 +226,4 @@ client 发送写操作请求给 Leader，Leader 接收完数据后开始向 Foll
 +  [raft协议几点更正和补充 - 知乎](https://zhuanlan.zhihu.com/p/39105353) ⭐
 + [SOFAJRaft 介绍 · SOFAStack](https://www.sofastack.tech/projects/sofa-jraft/overview/)
 + [GitHub - DanielJyc/raft-simple: raft协议的Java版本简单实现](https://github.com/DanielJyc/raft-simple)
++ [raft-zh_cn/raft-zh_cn.md at master · maemual/raft-zh_cn · GitHub](https://github.com/maemual/raft-zh_cn/blob/master/raft-zh_cn.md)
