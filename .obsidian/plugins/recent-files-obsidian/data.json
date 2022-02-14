@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "分布式算法",
+      "path": "00-Project/分布式系统/分布式算法.md"
+    },
+    {
+      "basename": "分布式系统导论",
+      "path": "00-Project/分布式系统/分布式系统导论.md"
+    },
+    {
+      "basename": "领导者模型",
+      "path": "00-Project/分布式系统/领导者模型.md"
+    },
+    {
       "basename": "Raft",
       "path": "00-Project/分布式系统/Raft.md"
     },
@@ -19,10 +31,6 @@
     {
       "basename": "POW",
       "path": "00-Project/分布式系统/POW.md"
-    },
-    {
-      "basename": "分布式算法",
-      "path": "00-Project/分布式系统/分布式算法.md"
     },
     {
       "basename": "PBFT",
@@ -45,16 +53,8 @@
       "path": "00-Project/分布式系统/Gossip.md"
     },
     {
-      "basename": "领导者模型",
-      "path": "00-Project/分布式系统/领导者模型.md"
-    },
-    {
       "basename": "Paxos",
       "path": "00-Project/分布式系统/Paxos.md"
-    },
-    {
-      "basename": "分布式系统导论",
-      "path": "00-Project/分布式系统/分布式系统导论.md"
     },
     {
       "basename": "ACID",

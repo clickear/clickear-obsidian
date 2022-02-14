@@ -265,11 +265,6 @@ client 发送写操作请求给 Leader，Leader 接收完数据后开始向 Foll
 # 源码学习
  [GitHub - DanielJyc/raft-simple: raft协议的Java版本简单实现](https://github.com/DanielJyc/raft-simple)
 
-
-
-
-
-
 # 资料
 + [raft-zh_cn/raft-zh_cn.md at master · maemual/raft-zh_cn · GitHub](https://github.com/maemual/raft-zh_cn/blob/master/raft-zh_cn.md) ⭐
 + [Raft协议详解 - 知乎](https://zhuanlan.zhihu.com/p/27207160) ⭐
