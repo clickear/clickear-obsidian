@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ac4ee2be3dd9f2ed",
+        "id": "60aafc9d8d91f321",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "20-Diary/2022-02-15.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -42,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#uncomplete",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +67,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20-Diary/2022-02-15.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -95,7 +89,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7677160739265261,
+                  "scale": 1.9507900396272566,
                   "close": true
                 }
               }
@@ -129,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "20-Diary/2022-02-15.md"
-              }
+              "state": {}
             }
           },
           {
@@ -141,16 +133,9 @@
               "type": "recent-files",
               "state": {}
             }
-          },
-          {
-            "id": "6d2b5b1ad6a3c4b4",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0b3485207df574dd",
@@ -163,7 +148,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-Diary/2022-02-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,9 +194,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229
+    "width": 273
   },
-  "active": "ac4ee2be3dd9f2ed",
+  "active": "60aafc9d8d91f321",
   "lastOpenFiles": [
     "20-Diary/2022-02-15.md",
     "20-Diary/2022-02-25.md",
