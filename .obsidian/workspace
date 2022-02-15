@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f3ad062a5f55a6f6",
+        "id": "ac4ee2be3dd9f2ed",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "20-Diary/2022-01-24.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "memos_view",
+          "state": {}
         }
       }
     ],
@@ -72,7 +67,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20-Diary/2022-01-24.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -129,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "20-Diary/2022-01-24.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,8 +142,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0b3485207df574dd",
@@ -164,7 +155,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-Diary/2022-01-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,17 +203,17 @@
     "direction": "horizontal",
     "width": 229
   },
-  "active": "f3ad062a5f55a6f6",
+  "active": "ac4ee2be3dd9f2ed",
   "lastOpenFiles": [
-    "20-Diary/2022-01-24.md",
+    "88-Template/Calendar2021-2022.md",
+    "88-Template/通用模板.md",
+    "20-Diary/2022-02-15.md",
+    "20-Diary/2022-01-28.md",
     "README.md",
+    "从这开始.md",
+    "20-Diary/2022-01-24.md",
     "00-Project/分布式系统/分布式算法.md",
     "00-Project/分布式系统/分布式系统导论.md",
-    "00-Project/分布式系统/领导者模型.md",
-    "00-Project/分布式系统/Raft.md",
-    "从这开始.md",
-    "00-Project/分布式系统/拜占庭问题.md",
-    "00-Project/分布式系统/POW.md",
-    "00-Project/分布式系统/PBFT.md"
+    "00-Project/分布式系统/领导者模型.md"
   ]
 }

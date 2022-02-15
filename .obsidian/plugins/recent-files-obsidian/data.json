@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Calendar2021-2022",
+      "path": "88-Template/Calendar2021-2022.md"
+    },
+    {
+      "basename": "通用模板",
+      "path": "88-Template/通用模板.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "从这开始",
+      "path": "从这开始.md"
     },
     {
       "basename": "分布式算法",
@@ -19,10 +31,6 @@
     {
       "basename": "Raft",
       "path": "00-Project/分布式系统/Raft.md"
-    },
-    {
-      "basename": "从这开始",
-      "path": "从这开始.md"
     },
     {
       "basename": "拜占庭问题",
@@ -111,14 +119,6 @@
     {
       "basename": "教育",
       "path": "00-Project/教育/教育.md"
-    },
-    {
-      "basename": "测试插件",
-      "path": "00-Project/测试插件.md"
-    },
-    {
-      "basename": "阅读清单",
-      "path": "00-Project/学习方法论/阅读清单.md"
     }
   ],
   "omittedPaths": [
