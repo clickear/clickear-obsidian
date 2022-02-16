@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Pasted image 20220128182502",
+      "path": "99-Resource/Pasted image 20220128182502.png"
+    },
+    {
+      "basename": "Pasted image 20220128182119",
+      "path": "99-Resource/Pasted image 20220128182119.png"
+    },
+    {
+      "basename": "Pasted image 20220125185139",
+      "path": "99-Resource/Pasted image 20220125185139.png"
+    },
+    {
+      "basename": "分布式系统导论",
+      "path": "00-Project/分布式系统/分布式系统导论.md"
+    },
+    {
+      "basename": "分布式算法",
+      "path": "00-Project/分布式系统/分布式算法.md"
+    },
+    {
       "basename": "Calendar2021-2022",
       "path": "88-Template/Calendar2021-2022.md"
     },
@@ -15,14 +35,6 @@
     {
       "basename": "从这开始",
       "path": "从这开始.md"
-    },
-    {
-      "basename": "分布式算法",
-      "path": "00-Project/分布式系统/分布式算法.md"
-    },
-    {
-      "basename": "分布式系统导论",
-      "path": "00-Project/分布式系统/分布式系统导论.md"
     },
     {
       "basename": "领导者模型",
@@ -107,18 +119,6 @@
     {
       "basename": "可用性",
       "path": "00-Project/分布式系统/可用性.md"
-    },
-    {
-      "basename": "孩子-挑战",
-      "path": "00-Project/教育/孩子-挑战.md"
-    },
-    {
-      "basename": "凤凰架构",
-      "path": "00-Project/分布式系统/凤凰架构.md"
-    },
-    {
-      "basename": "教育",
-      "path": "00-Project/教育/教育.md"
     }
   ],
   "omittedPaths": [
