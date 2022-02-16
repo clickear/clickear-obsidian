@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "孩子-挑战",
+      "path": "00-Project/教育/孩子-挑战.md"
+    },
+    {
       "basename": "Pasted image 20220128182502",
       "path": "99-Resource/Pasted image 20220128182502.png"
     },
@@ -115,10 +119,6 @@
     {
       "basename": "AP",
       "path": "00-Project/分布式系统/AP.md"
-    },
-    {
-      "basename": "可用性",
-      "path": "00-Project/分布式系统/可用性.md"
     }
   ],
   "omittedPaths": [

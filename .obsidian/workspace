@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20-Diary/2022-02-15.md",
+            "file": "00-Project/教育/孩子-挑战.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -73,7 +73,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20-Diary/2022-02-15.md",
+                "file": "00-Project/教育/孩子-挑战.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-Diary/2022-02-15.md"
+                "file": "00-Project/教育/孩子-挑战.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-Diary/2022-02-15.md",
+                "file": "00-Project/教育/孩子-挑战.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,6 +208,7 @@
   },
   "active": "72e0d3ea2c2b161a",
   "lastOpenFiles": [
+    "00-Project/教育/孩子-挑战.md",
     "20-Diary/2022-02-15.md",
     "99-Resource/Pasted image 20220128182502.png",
     "99-Resource/Pasted image 20220128182119.png",
@@ -216,7 +217,6 @@
     "00-Project/分布式系统/分布式系统导论.md",
     "00-Project/分布式系统/分布式算法.md",
     "00-Project/测试插件.md",
-    "20-Diary/2022-02-16.md",
-    "20-Diary/2022-02-25.md"
+    "20-Diary/2022-02-16.md"
   ]
 }
