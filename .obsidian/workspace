@@ -7,8 +7,13 @@
         "id": "60aafc9d8d91f321",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "20-Diary/2022-02-16.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -67,6 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "20-Diary/2022-02-16.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -123,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "20-Diary/2022-02-16.md"
+              }
             }
           },
           {
@@ -148,6 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "20-Diary/2022-02-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,6 +207,7 @@
   },
   "active": "60aafc9d8d91f321",
   "lastOpenFiles": [
+    "20-Diary/2022-02-16.md",
     "20-Diary/2022-02-15.md",
     "20-Diary/2022-02-25.md",
     "88-Template/Calendar2021-2022.md",
@@ -206,7 +216,6 @@
     "README.md",
     "从这开始.md",
     "20-Diary/2022-01-24.md",
-    "00-Project/分布式系统/分布式算法.md",
-    "00-Project/分布式系统/分布式系统导论.md"
+    "00-Project/分布式系统/分布式算法.md"
   ]
 }
