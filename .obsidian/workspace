@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20-Diary/2022-02-18.md",
+            "file": "00-Project/教育/孩子-挑战.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,7 +59,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "73be5873231122d7",
@@ -72,7 +73,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20-Diary/2022-02-18.md",
+                "file": "00-Project/教育/孩子-挑战.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -95,7 +96,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.9507900396272566,
+                  "scale": 2.2711444208182225,
                   "close": true
                 }
               }
@@ -130,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-Diary/2022-02-18.md"
+                "file": "00-Project/教育/孩子-挑战.md"
               }
             }
           },
@@ -143,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "0b3485207df574dd",
@@ -156,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-Diary/2022-02-18.md",
+                "file": "00-Project/教育/孩子-挑战.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,8 +208,8 @@
   },
   "active": "60aafc9d8d91f321",
   "lastOpenFiles": [
-    "20-Diary/2022-02-18.md",
     "00-Project/教育/孩子-挑战.md",
+    "20-Diary/2022-02-18.md",
     "20-Diary/2022-02-15.md",
     "99-Resource/Pasted image 20220128182502.png",
     "99-Resource/Pasted image 20220128182119.png",
