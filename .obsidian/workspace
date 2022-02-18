@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "72e0d3ea2c2b161a",
+        "id": "60aafc9d8d91f321",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-Project/教育/孩子-挑战.md",
+            "file": "20-Diary/2022-02-18.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,8 +59,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "73be5873231122d7",
@@ -73,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-Project/教育/孩子-挑战.md",
+                "file": "20-Diary/2022-02-18.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -96,7 +95,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.9466318609803608,
+                  "scale": 1.9507900396272566,
                   "close": true
                 }
               }
@@ -131,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Project/教育/孩子-挑战.md"
+                "file": "20-Diary/2022-02-18.md"
               }
             }
           },
@@ -157,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Project/教育/孩子-挑战.md",
+                "file": "20-Diary/2022-02-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,8 +205,9 @@
     "direction": "horizontal",
     "width": 273
   },
-  "active": "72e0d3ea2c2b161a",
+  "active": "60aafc9d8d91f321",
   "lastOpenFiles": [
+    "20-Diary/2022-02-18.md",
     "00-Project/教育/孩子-挑战.md",
     "20-Diary/2022-02-15.md",
     "99-Resource/Pasted image 20220128182502.png",
@@ -216,7 +216,6 @@
     "20-Diary/2021年12月规划.md",
     "00-Project/分布式系统/分布式系统导论.md",
     "00-Project/分布式系统/分布式算法.md",
-    "00-Project/测试插件.md",
-    "20-Diary/2022-02-16.md"
+    "00-Project/测试插件.md"
   ]
 }
