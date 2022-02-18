@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "学习计划",
+      "path": "00-Project/PMP/学习计划.md"
+    },
+    {
       "basename": "孩子-挑战",
       "path": "00-Project/教育/孩子-挑战.md"
     },
@@ -115,10 +119,6 @@
     {
       "basename": "分区容错性",
       "path": "00-Project/分布式系统/分区容错性.md"
-    },
-    {
-      "basename": "AP",
-      "path": "00-Project/分布式系统/AP.md"
     }
   ],
   "omittedPaths": [
