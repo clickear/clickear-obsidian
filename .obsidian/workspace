@@ -7,8 +7,13 @@
         "id": "60aafc9d8d91f321",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "00-Project/数据结构与算法/资料.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -67,6 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "00-Project/数据结构与算法/资料.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -123,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00-Project/数据结构与算法/资料.md"
+              }
             }
           },
           {
@@ -148,6 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00-Project/数据结构与算法/资料.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,10 +207,10 @@
   },
   "active": "60aafc9d8d91f321",
   "lastOpenFiles": [
-    "99-Resource/Pasted image 20220128182502的副本.png",
     "00-Project/数据结构与算法/资料.md",
-    "20-Diary/2022-02-19.md",
     "99-Resource/大厂学苑-01分布式协调服务器Zookeeper.pdf",
+    "99-Resource/Pasted image 20220128182502的副本.png",
+    "20-Diary/2022-02-19.md",
     "从这开始.md",
     "00-Project/数据结构与算法/数据结构与算法.md",
     "99-Resource/Pasted image 20220128182502.png",
