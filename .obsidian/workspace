@@ -7,13 +7,8 @@
         "id": "60aafc9d8d91f321",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "20-Diary/2022-02-19.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -72,7 +67,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20-Diary/2022-02-19.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -129,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "20-Diary/2022-02-19.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,7 +148,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-Diary/2022-02-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,14 +199,14 @@
   "active": "60aafc9d8d91f321",
   "lastOpenFiles": [
     "20-Diary/2022-02-19.md",
-    "99-Resource/Pasted image 20220128182502.png",
+    "99-Resource/大厂学苑-01分布式协调服务器Zookeeper.pdf",
+    "从这开始.md",
+    "00-Project/数据结构与算法/资料.md",
     "00-Project/数据结构与算法/数据结构与算法.md",
+    "99-Resource/Pasted image 20220128182502.png",
     "00-Project/教育/教育.md",
     "00-Project/Archive/下载网站.md",
     "00-Project/Archive/TablePlus.md",
-    "00-Project/PMP/学习计划.md",
-    "00-Project/教育/孩子-挑战.md",
-    "20-Diary/2022-02-18.md",
-    "20-Diary/2022-02-15.md"
+    "00-Project/PMP/学习计划.md"
   ]
 }

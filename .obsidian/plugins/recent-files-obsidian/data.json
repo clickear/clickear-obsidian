@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Pasted image 20220128182502",
-      "path": "99-Resource/Pasted image 20220128182502.png"
+      "basename": "大厂学苑-01分布式协调服务器Zookeeper",
+      "path": "99-Resource/大厂学苑-01分布式协调服务器Zookeeper.pdf"
+    },
+    {
+      "basename": "从这开始",
+      "path": "从这开始.md"
+    },
+    {
+      "basename": "资料",
+      "path": "00-Project/数据结构与算法/资料.md"
     },
     {
       "basename": "数据结构与算法",
       "path": "00-Project/数据结构与算法/数据结构与算法.md"
+    },
+    {
+      "basename": "Pasted image 20220128182502",
+      "path": "99-Resource/Pasted image 20220128182502.png"
     },
     {
       "basename": "教育",
@@ -55,10 +67,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "从这开始",
-      "path": "从这开始.md"
     },
     {
       "basename": "领导者模型",
@@ -111,14 +119,6 @@
     {
       "basename": "一致性",
       "path": "00-Project/分布式系统/一致性.md"
-    },
-    {
-      "basename": "BASE理论",
-      "path": "00-Project/分布式系统/BASE理论.md"
-    },
-    {
-      "basename": "CAP定理",
-      "path": "00-Project/分布式系统/CAP定理.md"
     }
   ],
   "omittedPaths": [
