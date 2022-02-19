@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-Project/数据结构与算法/数据结构与算法.md",
+            "file": "00-Project/数据结构与算法/动态规划.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-Project/数据结构与算法/数据结构与算法.md",
+                "file": "00-Project/数据结构与算法/动态规划.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -105,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387
+    "width": 387,
+    "collapsed": true
   },
   "right": {
     "id": "4e390742ffc29613",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Project/数据结构与算法/数据结构与算法.md"
+                "file": "00-Project/数据结构与算法/动态规划.md"
               }
             }
           },
@@ -156,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Project/数据结构与算法/数据结构与算法.md",
+                "file": "00-Project/数据结构与算法/动态规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,24 +199,24 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 273
+    "width": 273,
+    "collapsed": true
   },
   "active": "60aafc9d8d91f321",
   "lastOpenFiles": [
+    "00-Project/数据结构与算法/动态规划.md",
     "00-Project/数据结构与算法/数据结构与算法.md",
+    "00-Project/数据结构与算法/贪心算法.md",
+    "00-Project/数据结构与算法/分治法.md",
     "00-Project/数据结构与算法/资料.md",
     "99-Resource/大厂学苑-01分布式协调服务器Zookeeper.pdf",
     "99-Resource/Pasted image 20220128182502的副本.png",
     "20-Diary/2022-02-19.md",
     "从这开始.md",
-    "99-Resource/Pasted image 20220128182502.png",
-    "00-Project/教育/教育.md",
-    "00-Project/Archive/下载网站.md",
-    "00-Project/Archive/TablePlus.md"
+    "99-Resource/Pasted image 20220128182502.png"
   ]
 }
