@@ -7,12 +7,9 @@
         "id": "60aafc9d8d91f321",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "00-Project/PMP/学习计划.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
+            "file": "99-Resource/Pasted image 20220128182502.png"
           }
         }
       }
@@ -72,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-Project/PMP/学习计划.md",
+                "file": "99-Resource/Pasted image 20220128182502.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -95,7 +92,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 2.2711444208182225,
+                  "scale": 1.1020856299046458,
                   "close": true
                 }
               }
@@ -130,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Project/PMP/学习计划.md"
+                "file": "99-Resource/Pasted image 20220128182502.png"
               }
             }
           },
@@ -156,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Project/PMP/学习计划.md",
+                "file": "99-Resource/Pasted image 20220128182502.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,15 +204,15 @@
   },
   "active": "60aafc9d8d91f321",
   "lastOpenFiles": [
+    "99-Resource/Pasted image 20220128182502.png",
+    "00-Project/数据结构与算法/数据结构与算法.md",
+    "00-Project/教育/教育.md",
+    "00-Project/Archive/下载网站.md",
+    "00-Project/Archive/TablePlus.md",
     "00-Project/PMP/学习计划.md",
     "00-Project/教育/孩子-挑战.md",
     "20-Diary/2022-02-18.md",
     "20-Diary/2022-02-15.md",
-    "99-Resource/Pasted image 20220128182502.png",
-    "99-Resource/Pasted image 20220128182119.png",
-    "99-Resource/Pasted image 20220125185139.png",
-    "20-Diary/2021年12月规划.md",
-    "00-Project/分布式系统/分布式系统导论.md",
-    "00-Project/分布式系统/分布式算法.md"
+    "99-Resource/Pasted image 20220128182119.png"
   ]
 }
