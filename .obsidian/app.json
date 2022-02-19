@@ -12,7 +12,7 @@
   "attachmentFolderPath": "99-Resource",
   "showLineNumber": true,
   "defaultViewMode": "source",
-  "showUnsupportedFiles": false,
+  "showUnsupportedFiles": true,
   "pdfExportSettings": {
     "pageSize": "Letter",
     "landscape": false,

@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "资料",
+      "path": "00-Project/数据结构与算法/资料.md"
+    },
+    {
       "basename": "大厂学苑-01分布式协调服务器Zookeeper",
       "path": "99-Resource/大厂学苑-01分布式协调服务器Zookeeper.pdf"
     },
     {
       "basename": "从这开始",
       "path": "从这开始.md"
-    },
-    {
-      "basename": "资料",
-      "path": "00-Project/数据结构与算法/资料.md"
     },
     {
       "basename": "数据结构与算法",
@@ -115,10 +115,6 @@
     {
       "basename": "2PC",
       "path": "00-Project/分布式系统/2PC.md"
-    },
-    {
-      "basename": "一致性",
-      "path": "00-Project/分布式系统/一致性.md"
     }
   ],
   "omittedPaths": [
