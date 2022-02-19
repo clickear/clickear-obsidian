@@ -142,9 +142,17 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "46acf7ecf1e33c59",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "0b3485207df574dd",
@@ -209,14 +217,14 @@
   "active": "60aafc9d8d91f321",
   "lastOpenFiles": [
     "00-Project/数据结构与算法/数据结构与算法.md",
+    "00-Project/数据结构与算法/分支限界法.md",
+    "00-Project/数据结构与算法/动态规划法.md",
     "00-Project/数据结构与算法/回溯法.md",
-    "00-Project/数据结构与算法/动态规划.md",
     "00-Project/数据结构与算法/贪心算法.md",
     "00-Project/数据结构与算法/分治法.md",
     "00-Project/数据结构与算法/资料.md",
     "99-Resource/大厂学苑-01分布式协调服务器Zookeeper.pdf",
     "99-Resource/Pasted image 20220128182502的副本.png",
-    "20-Diary/2022-02-19.md",
-    "从这开始.md"
+    "20-Diary/2022-02-19.md"
   ]
 }
