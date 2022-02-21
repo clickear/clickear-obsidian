@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-Project/数据结构与算法/数据结构与算法.md",
+            "file": "00-Project/PMP/学习计划.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-Project/数据结构与算法/数据结构与算法.md",
+                "file": "00-Project/PMP/学习计划.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -105,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387,
-    "collapsed": true
+    "width": 302
   },
   "right": {
     "id": "4e390742ffc29613",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Project/数据结构与算法/数据结构与算法.md"
+                "file": "00-Project/PMP/学习计划.md"
               }
             }
           },
@@ -165,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Project/数据结构与算法/数据结构与算法.md",
+                "file": "00-Project/PMP/学习计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,6 +215,7 @@
   },
   "active": "60aafc9d8d91f321",
   "lastOpenFiles": [
+    "00-Project/PMP/学习计划.md",
     "00-Project/数据结构与算法/数据结构与算法.md",
     "00-Project/数据结构与算法/分支限界法.md",
     "00-Project/数据结构与算法/动态规划法.md",
@@ -224,7 +224,6 @@
     "00-Project/数据结构与算法/分治法.md",
     "00-Project/数据结构与算法/资料.md",
     "99-Resource/大厂学苑-01分布式协调服务器Zookeeper.pdf",
-    "99-Resource/Pasted image 20220128182502的副本.png",
-    "20-Diary/2022-02-19.md"
+    "99-Resource/Pasted image 20220128182502的副本.png"
   ]
 }
