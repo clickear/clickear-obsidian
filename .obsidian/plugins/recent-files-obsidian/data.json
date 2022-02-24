@@ -5,6 +5,10 @@
       "path": "00-Project/数据结构与算法/数组.md"
     },
     {
+      "basename": "双指针法",
+      "path": "00-Project/数据结构与算法/双指针法.md"
+    },
+    {
       "basename": "数据结构",
       "path": "00-Project/数据结构与算法/数据结构.md"
     },
@@ -115,10 +119,6 @@
     {
       "basename": "PBFT",
       "path": "00-Project/分布式系统/PBFT.md"
-    },
-    {
-      "basename": "Quorum NWR",
-      "path": "00-Project/分布式系统/Quorum NWR.md"
     }
   ],
   "omittedPaths": [

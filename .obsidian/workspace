@@ -215,6 +215,7 @@
   "active": "60aafc9d8d91f321",
   "lastOpenFiles": [
     "00-Project/数据结构与算法/数组.md",
+    "00-Project/数据结构与算法/双指针法.md",
     "00-Project/数据结构与算法/数据结构.md",
     "00-Project/数据结构与算法/数据结构与算法.md",
     "00-Project/PMP/学习计划.md",
@@ -222,7 +223,6 @@
     "00-Project/数据结构与算法/动态规划法.md",
     "00-Project/数据结构与算法/回溯法.md",
     "00-Project/数据结构与算法/贪心算法.md",
-    "00-Project/数据结构与算法/分治法.md",
-    "00-Project/数据结构与算法/资料.md"
+    "00-Project/数据结构与算法/分治法.md"
   ]
 }
