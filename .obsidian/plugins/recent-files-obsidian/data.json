@@ -5,6 +5,10 @@
       "path": "00-Project/PMP/学习计划.md"
     },
     {
+      "basename": "Pasted image 20220225100426",
+      "path": "99-Resource/Pasted image 20220225100426.png"
+    },
+    {
       "basename": "数组",
       "path": "00-Project/数据结构与算法/数组.md"
     },
@@ -115,10 +119,6 @@
     {
       "basename": "POW",
       "path": "00-Project/分布式系统/POW.md"
-    },
-    {
-      "basename": "PBFT",
-      "path": "00-Project/分布式系统/PBFT.md"
     }
   ],
   "omittedPaths": [
