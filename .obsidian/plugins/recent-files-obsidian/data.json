@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "引论",
+      "path": "00-Project/PMP/引论.md"
+    },
+    {
       "basename": "学习计划",
       "path": "00-Project/PMP/学习计划.md"
+    },
+    {
+      "basename": "Pasted image 20220225161204",
+      "path": "99-Resource/Pasted image 20220225161204.png"
+    },
+    {
+      "basename": "Pasted image 20220228163148",
+      "path": "99-Resource/Pasted image 20220228163148.png"
     },
     {
       "basename": "Pasted image 20220225100426",
@@ -107,18 +119,6 @@
     {
       "basename": "领导者模型",
       "path": "00-Project/分布式系统/领导者模型.md"
-    },
-    {
-      "basename": "Raft",
-      "path": "00-Project/分布式系统/Raft.md"
-    },
-    {
-      "basename": "拜占庭问题",
-      "path": "00-Project/分布式系统/拜占庭问题.md"
-    },
-    {
-      "basename": "POW",
-      "path": "00-Project/分布式系统/POW.md"
     }
   ],
   "omittedPaths": [
