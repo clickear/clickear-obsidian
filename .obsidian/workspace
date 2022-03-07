@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-Project/PMP/学习计划.md",
+            "file": "00-Project/数据结构与算法/动态规划法.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-Project/PMP/学习计划.md",
+                "file": "00-Project/数据结构与算法/动态规划法.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Project/PMP/学习计划.md"
+                "file": "00-Project/数据结构与算法/动态规划法.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Project/PMP/学习计划.md",
+                "file": "00-Project/数据结构与算法/动态规划法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,6 +214,8 @@
   },
   "active": "7ad1d77c55fbfb88",
   "lastOpenFiles": [
+    "00-Project/数据结构与算法/动态规划法.md",
+    "00-Project/数据结构与算法/数组.md",
     "00-Project/PMP/学习计划.md",
     "00-Project/PMP/引论.md",
     "00-Project/教育/孩子-挑战.md",
@@ -221,8 +223,6 @@
     "99-Resource/Pasted image 20220225100426.png",
     "99-Resource/Pasted image 20220225161204.png",
     "99-Resource/Pasted image 20220228163148.png",
-    "00-Project/数据结构与算法/数组.md",
-    "00-Project/数据结构与算法/双指针法.md",
-    "00-Project/数据结构与算法/数据结构.md"
+    "00-Project/数据结构与算法/双指针法.md"
   ]
 }

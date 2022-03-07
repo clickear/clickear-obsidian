@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "动态规划法",
+      "path": "00-Project/数据结构与算法/动态规划法.md"
+    },
+    {
+      "basename": "数组",
+      "path": "00-Project/数据结构与算法/数组.md"
+    },
+    {
       "basename": "学习计划",
       "path": "00-Project/PMP/学习计划.md"
     },
@@ -25,10 +33,6 @@
       "path": "99-Resource/Pasted image 20220228163148.png"
     },
     {
-      "basename": "数组",
-      "path": "00-Project/数据结构与算法/数组.md"
-    },
-    {
       "basename": "双指针法",
       "path": "00-Project/数据结构与算法/双指针法.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "分支限界法",
       "path": "00-Project/数据结构与算法/分支限界法.md"
-    },
-    {
-      "basename": "动态规划法",
-      "path": "00-Project/数据结构与算法/动态规划法.md"
     },
     {
       "basename": "回溯法",
