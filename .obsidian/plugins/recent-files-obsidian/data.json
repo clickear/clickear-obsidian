@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "排序算法",
-      "path": "00-Project/数据结构与算法/排序算法.md"
+      "basename": "https",
+      "path": "00-Project/计算机基础/https.md"
     },
     {
       "basename": "数据结构与算法",
       "path": "00-Project/数据结构与算法/数据结构与算法.md"
+    },
+    {
+      "basename": "数据结构",
+      "path": "00-Project/数据结构与算法/数据结构.md"
+    },
+    {
+      "basename": "排序算法",
+      "path": "00-Project/数据结构与算法/排序算法.md"
     },
     {
       "basename": "动态规划法",
@@ -43,10 +51,6 @@
     {
       "basename": "双指针法",
       "path": "00-Project/数据结构与算法/双指针法.md"
-    },
-    {
-      "basename": "数据结构",
-      "path": "00-Project/数据结构与算法/数据结构.md"
     },
     {
       "basename": "分支限界法",
@@ -115,10 +119,6 @@
     {
       "basename": "通用模板",
       "path": "88-Template/通用模板.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [
