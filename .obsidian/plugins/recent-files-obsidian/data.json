@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "学习计划",
+      "path": "00-Project/PMP/学习计划.md"
+    },
+    {
+      "basename": "孩子-挑战",
+      "path": "00-Project/教育/孩子-挑战.md"
+    },
+    {
       "basename": "https",
       "path": "00-Project/计算机基础/https.md"
     },
@@ -25,16 +33,8 @@
       "path": "00-Project/数据结构与算法/数组.md"
     },
     {
-      "basename": "学习计划",
-      "path": "00-Project/PMP/学习计划.md"
-    },
-    {
       "basename": "引论",
       "path": "00-Project/PMP/引论.md"
-    },
-    {
-      "basename": "孩子-挑战",
-      "path": "00-Project/教育/孩子-挑战.md"
     },
     {
       "basename": "错题整理",
