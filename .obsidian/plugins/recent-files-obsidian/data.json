@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "数据结构与算法",
+      "path": "00-Project/数据结构与算法/数据结构与算法.md"
+    },
+    {
+      "basename": "数据结构",
+      "path": "00-Project/数据结构与算法/数据结构.md"
+    },
+    {
+      "basename": "排序算法",
+      "path": "00-Project/数据结构与算法/排序算法.md"
+    },
+    {
+      "basename": "数组",
+      "path": "00-Project/数据结构与算法/数组.md"
+    },
+    {
+      "basename": "资料",
+      "path": "00-Project/数据结构与算法/资料.md"
+    },
+    {
+      "basename": "贪心算法",
+      "path": "00-Project/数据结构与算法/贪心算法.md"
+    },
+    {
       "basename": "学习计划",
       "path": "00-Project/PMP/学习计划.md"
     },
@@ -21,24 +45,8 @@
       "path": "00-Project/计算机基础/https.md"
     },
     {
-      "basename": "数据结构与算法",
-      "path": "00-Project/数据结构与算法/数据结构与算法.md"
-    },
-    {
-      "basename": "数据结构",
-      "path": "00-Project/数据结构与算法/数据结构.md"
-    },
-    {
-      "basename": "排序算法",
-      "path": "00-Project/数据结构与算法/排序算法.md"
-    },
-    {
       "basename": "动态规划法",
       "path": "00-Project/数据结构与算法/动态规划法.md"
-    },
-    {
-      "basename": "数组",
-      "path": "00-Project/数据结构与算法/数组.md"
     },
     {
       "basename": "错题整理",
@@ -65,16 +73,8 @@
       "path": "00-Project/数据结构与算法/回溯法.md"
     },
     {
-      "basename": "贪心算法",
-      "path": "00-Project/数据结构与算法/贪心算法.md"
-    },
-    {
       "basename": "分治法",
       "path": "00-Project/数据结构与算法/分治法.md"
-    },
-    {
-      "basename": "资料",
-      "path": "00-Project/数据结构与算法/资料.md"
     },
     {
       "basename": "大厂学苑-01分布式协调服务器Zookeeper",
