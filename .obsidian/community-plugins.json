@@ -30,5 +30,6 @@
   "obsidian-auto-link-title",
   "obsidian-mind-map",
   "obsidian-markmind",
-  "url-into-selection"
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-plugin-prettier"
 ]
