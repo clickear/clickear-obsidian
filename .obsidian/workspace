@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-Project/数据结构与算法/基础算法/二分查找.md",
+            "file": "00-Project/软考/软考-软件设计师.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-Project/数据结构与算法/基础算法/二分查找.md",
+                "file": "00-Project/软考/软考-软件设计师.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Project/数据结构与算法/基础算法/二分查找.md"
+                "file": "00-Project/软考/软考-软件设计师.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Project/数据结构与算法/基础算法/二分查找.md",
+                "file": "00-Project/软考/软考-软件设计师.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,15 +207,15 @@
   },
   "active": "0d36cb252bb81956",
   "lastOpenFiles": [
+    "00-Project/软考/软考-软件设计师.md",
+    "00-Project/PMP/学习计划.md",
+    "00-Project/PMP/引论.md",
     "00-Project/数据结构与算法/基础算法/二分查找.md",
     "00-Project/数据结构与算法/算法目录.md",
     "00-Project/数据结构与算法/数据结构/数组.md",
     "00-Project/数据结构与算法/数据结构/数据结构.md",
     "00-Project/数据结构与算法/基础算法/排序算法.md",
     "00-Project/数据结构与算法/基础算法/基础算法.md",
-    "00-Project/数据结构与算法/贪心算法.md",
-    "00-Project/数据结构与算法/回溯法.md",
-    "00-Project/数据结构与算法/数据结构与算法.md",
-    "00-Project/分布式系统/分布式系统导论.md"
+    "00-Project/数据结构与算法/贪心算法.md"
   ]
 }
