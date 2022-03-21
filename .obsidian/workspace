@@ -4,17 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "0d36cb252bb81956",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "00-Project/软考/软考-软件设计师.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
+        "id": "4502b6aeb4f9a5ef",
+        "type": "split",
+        "children": [
+          {
+            "id": "0d36cb252bb81956",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Project/软考/软考-软件设计师.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfe2f9fb6547349e",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -208,14 +223,14 @@
   "active": "0d36cb252bb81956",
   "lastOpenFiles": [
     "00-Project/软考/软考-软件设计师.md",
+    "00-Project/数据结构与算法/算法目录.md",
+    "00-Project/数据结构与算法/数据结构与算法.md",
     "00-Project/PMP/学习计划.md",
     "00-Project/PMP/引论.md",
     "00-Project/数据结构与算法/基础算法/二分查找.md",
-    "00-Project/数据结构与算法/算法目录.md",
     "00-Project/数据结构与算法/数据结构/数组.md",
     "00-Project/数据结构与算法/数据结构/数据结构.md",
     "00-Project/数据结构与算法/基础算法/排序算法.md",
-    "00-Project/数据结构与算法/基础算法/基础算法.md",
-    "00-Project/数据结构与算法/贪心算法.md"
+    "00-Project/数据结构与算法/基础算法/基础算法.md"
   ]
 }
