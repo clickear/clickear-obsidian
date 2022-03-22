@@ -5,6 +5,10 @@
       "path": "00-Project/软考/软考-软件设计师.md"
     },
     {
+      "basename": "https",
+      "path": "00-Project/计算机基础/https.md"
+    },
+    {
       "basename": "算法目录",
       "path": "00-Project/数据结构与算法/算法目录.md"
     },
@@ -103,10 +107,6 @@
     {
       "basename": "教育",
       "path": "00-Project/教育/教育.md"
-    },
-    {
-      "basename": "https",
-      "path": "00-Project/计算机基础/https.md"
     },
     {
       "basename": "动态规划法",
