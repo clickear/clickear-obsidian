@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "栈",
+      "path": "00-Project/数据结构与算法/数据结构/栈.md"
+    },
+    {
+      "basename": "算法目录",
+      "path": "00-Project/数据结构与算法/算法目录.md"
+    },
+    {
+      "basename": "数据结构与算法",
+      "path": "00-Project/数据结构与算法/数据结构与算法.md"
+    },
+    {
+      "basename": "数组",
+      "path": "00-Project/数据结构与算法/数据结构/数组.md"
+    },
+    {
+      "basename": "数据结构",
+      "path": "00-Project/数据结构与算法/数据结构/数据结构.md"
+    },
+    {
       "basename": "软考-数据结构",
       "path": "00-Project/软考/软考-数据结构.md"
     },
     {
       "basename": "未命名",
       "path": "00-Project/学习方法论/未命名.md"
-    },
-    {
-      "basename": "算法目录",
-      "path": "00-Project/数据结构与算法/算法目录.md"
     },
     {
       "basename": "程序设计语言基础知识",
@@ -29,24 +45,12 @@
       "path": "00-Project/计算机基础/https.md"
     },
     {
-      "basename": "数据结构与算法",
-      "path": "00-Project/数据结构与算法/数据结构与算法.md"
-    },
-    {
       "basename": "引论",
       "path": "00-Project/PMP/引论.md"
     },
     {
       "basename": "二分查找",
       "path": "00-Project/数据结构与算法/基础算法/二分查找.md"
-    },
-    {
-      "basename": "数组",
-      "path": "00-Project/数据结构与算法/数据结构/数组.md"
-    },
-    {
-      "basename": "数据结构",
-      "path": "00-Project/数据结构与算法/数据结构/数据结构.md"
     },
     {
       "basename": "排序算法",
@@ -115,10 +119,6 @@
     {
       "basename": "孩子-挑战",
       "path": "00-Project/教育/孩子-挑战.md"
-    },
-    {
-      "basename": "教育",
-      "path": "00-Project/教育/教育.md"
     }
   ],
   "omittedPaths": [
