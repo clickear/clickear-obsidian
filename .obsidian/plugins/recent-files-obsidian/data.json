@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "栈",
-      "path": "00-Project/数据结构与算法/数据结构/栈.md"
-    },
-    {
       "basename": "算法目录",
       "path": "00-Project/数据结构与算法/算法目录.md"
     },
     {
-      "basename": "数据结构与算法",
-      "path": "00-Project/数据结构与算法/数据结构与算法.md"
-    },
-    {
       "basename": "数组",
       "path": "00-Project/数据结构与算法/数据结构/数组.md"
+    },
+    {
+      "basename": "资料",
+      "path": "00-Project/数据结构与算法/资料.md"
+    },
+    {
+      "basename": "贪心算法",
+      "path": "00-Project/数据结构与算法/贪心算法.md"
+    },
+    {
+      "basename": "栈",
+      "path": "00-Project/数据结构与算法/数据结构/栈.md"
+    },
+    {
+      "basename": "数据结构与算法",
+      "path": "00-Project/数据结构与算法/数据结构与算法.md"
     },
     {
       "basename": "数据结构",
@@ -61,10 +69,6 @@
       "path": "00-Project/数据结构与算法/基础算法/基础算法.md"
     },
     {
-      "basename": "贪心算法",
-      "path": "00-Project/数据结构与算法/贪心算法.md"
-    },
-    {
       "basename": "回溯法",
       "path": "00-Project/数据结构与算法/回溯法.md"
     },
@@ -107,10 +111,6 @@
     {
       "basename": "可用性",
       "path": "00-Project/分布式系统/可用性.md"
-    },
-    {
-      "basename": "资料",
-      "path": "00-Project/数据结构与算法/资料.md"
     },
     {
       "basename": "双指针法",
