@@ -1,28 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "KMP算法",
+      "path": "00-Project/数据结构与算法/数据结构/线性表/字符串/KMP算法.md"
+    },
+    {
+      "basename": "字符串基础",
+      "path": "00-Project/数据结构与算法/数据结构/线性表/字符串/字符串基础.md"
+    },
+    {
       "basename": "算法目录",
       "path": "00-Project/数据结构与算法/算法目录.md"
     },
     {
-      "basename": "数组",
-      "path": "00-Project/数据结构与算法/数据结构/数组.md"
+      "basename": "滑动窗口",
+      "path": "00-Project/数据结构与算法/杂项算法/滑动窗口.md"
+    },
+    {
+      "basename": "分支限界法",
+      "path": "00-Project/数据结构与算法/基础算法/分支限界法.md"
+    },
+    {
+      "basename": "回溯法",
+      "path": "00-Project/数据结构与算法/基础算法/回溯法.md"
+    },
+    {
+      "basename": "数据结构与算法",
+      "path": "00-Project/数据结构与算法/数据结构与算法.md"
     },
     {
       "basename": "资料",
       "path": "00-Project/数据结构与算法/资料.md"
     },
     {
-      "basename": "贪心算法",
-      "path": "00-Project/数据结构与算法/贪心算法.md"
-    },
-    {
       "basename": "栈",
-      "path": "00-Project/数据结构与算法/数据结构/栈.md"
+      "path": "00-Project/数据结构与算法/数据结构/线性表/栈.md"
     },
     {
-      "basename": "数据结构与算法",
-      "path": "00-Project/数据结构与算法/数据结构与算法.md"
+      "basename": "动态规划法",
+      "path": "00-Project/数据结构与算法/基础算法/动态规划法.md"
+    },
+    {
+      "basename": "二分查找",
+      "path": "00-Project/数据结构与算法/基础算法/二分查找.md"
+    },
+    {
+      "basename": "基础算法",
+      "path": "00-Project/数据结构与算法/基础算法/基础算法.md"
+    },
+    {
+      "basename": "数组",
+      "path": "00-Project/数据结构与算法/数据结构/线性表/数组.md"
+    },
+    {
+      "basename": "贪心算法",
+      "path": "00-Project/数据结构与算法/基础算法/贪心算法.md"
     },
     {
       "basename": "数据结构",
@@ -57,20 +89,8 @@
       "path": "00-Project/PMP/引论.md"
     },
     {
-      "basename": "二分查找",
-      "path": "00-Project/数据结构与算法/基础算法/二分查找.md"
-    },
-    {
       "basename": "排序算法",
-      "path": "00-Project/数据结构与算法/基础算法/排序算法.md"
-    },
-    {
-      "basename": "基础算法",
-      "path": "00-Project/数据结构与算法/基础算法/基础算法.md"
-    },
-    {
-      "basename": "回溯法",
-      "path": "00-Project/数据结构与算法/回溯法.md"
+      "path": "00-Project/数据结构与算法/基础算法/排序算法/排序算法.md"
     },
     {
       "basename": "分布式系统导论",
@@ -99,26 +119,6 @@
     {
       "basename": "最终一致性",
       "path": "00-Project/分布式系统/最终一致性.md"
-    },
-    {
-      "basename": "状态机复制",
-      "path": "00-Project/分布式系统/状态机复制.md"
-    },
-    {
-      "basename": "领导者模型",
-      "path": "00-Project/分布式系统/领导者模型.md"
-    },
-    {
-      "basename": "可用性",
-      "path": "00-Project/分布式系统/可用性.md"
-    },
-    {
-      "basename": "双指针法",
-      "path": "00-Project/数据结构与算法/双指针法.md"
-    },
-    {
-      "basename": "孩子-挑战",
-      "path": "00-Project/教育/孩子-挑战.md"
     }
   ],
   "omittedPaths": [
