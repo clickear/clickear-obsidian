@@ -60,6 +60,8 @@ now该缩小到多少呢? 显然, 我们不想让now缩小太多. 因此我们�
 
 
 
+
+
 # 参考资料
 + [如何更好地理解和掌握 KMP 算法? - 知乎](https://www.zhihu.com/question/21923021)
 + [KMP 算法详解 - 知乎](https://zhuanlan.zhihu.com/p/83334559)
