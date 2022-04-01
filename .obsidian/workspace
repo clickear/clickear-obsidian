@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-Project/软考/软考-数据结构.md",
+            "file": "00-Project/数据结构与算法/数据结构/线性表/字符串/KMP算法.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -42,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kmp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,7 +59,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "73be5873231122d7",
@@ -72,7 +73,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-Project/软考/软考-数据结构.md",
+                "file": "00-Project/数据结构与算法/数据结构/线性表/字符串/KMP算法.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Project/软考/软考-数据结构.md"
+                "file": "00-Project/数据结构与算法/数据结构/线性表/字符串/KMP算法.md"
               }
             }
           },
@@ -156,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Project/软考/软考-数据结构.md",
+                "file": "00-Project/数据结构与算法/数据结构/线性表/字符串/KMP算法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,6 +208,7 @@
   },
   "active": "60aafc9d8d91f321",
   "lastOpenFiles": [
+    "00-Project/数据结构与算法/数据结构/线性表/字符串/KMP算法.md",
     "00-Project/软考/软考-数据结构.md",
     "00-Project/软考/程序设计语言基础知识.md",
     "00-Project/软考/软考-软件设计师.md",
@@ -215,7 +217,6 @@
     "00-Project/PMP/错题整理.md",
     "00-Project/数据结构与算法/杂项算法/滑动窗口.md",
     "00-Project/数据结构与算法/数据结构与算法.md",
-    "00-Project/数据结构与算法/算法目录.md",
-    "00-Project/数据结构与算法/数据结构/线性表/数组.md"
+    "00-Project/数据结构与算法/算法目录.md"
   ]
 }

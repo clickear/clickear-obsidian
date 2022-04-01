@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "KMP算法",
+      "path": "00-Project/数据结构与算法/数据结构/线性表/字符串/KMP算法.md"
+    },
+    {
       "basename": "软考-数据结构",
       "path": "00-Project/软考/软考-数据结构.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "数组",
       "path": "00-Project/数据结构与算法/数据结构/线性表/数组.md"
-    },
-    {
-      "basename": "KMP算法",
-      "path": "00-Project/数据结构与算法/数据结构/线性表/字符串/KMP算法.md"
     },
     {
       "basename": "字符串基础",
