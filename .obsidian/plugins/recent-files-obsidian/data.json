@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "数据结构与算法",
+      "path": "00-Project/数据结构与算法/数据结构与算法.md"
+    },
+    {
+      "basename": "算法目录",
+      "path": "00-Project/数据结构与算法/算法目录.md"
+    },
+    {
+      "basename": "数组",
+      "path": "00-Project/数据结构与算法/数据结构/线性表/数组.md"
+    },
+    {
       "basename": "KMP算法",
       "path": "00-Project/数据结构与算法/数据结构/线性表/字符串/KMP算法.md"
     },
     {
       "basename": "字符串基础",
       "path": "00-Project/数据结构与算法/数据结构/线性表/字符串/字符串基础.md"
-    },
-    {
-      "basename": "算法目录",
-      "path": "00-Project/数据结构与算法/算法目录.md"
     },
     {
       "basename": "滑动窗口",
@@ -23,10 +31,6 @@
     {
       "basename": "回溯法",
       "path": "00-Project/数据结构与算法/基础算法/回溯法.md"
-    },
-    {
-      "basename": "数据结构与算法",
-      "path": "00-Project/数据结构与算法/数据结构与算法.md"
     },
     {
       "basename": "资料",
@@ -47,10 +51,6 @@
     {
       "basename": "基础算法",
       "path": "00-Project/数据结构与算法/基础算法/基础算法.md"
-    },
-    {
-      "basename": "数组",
-      "path": "00-Project/数据结构与算法/数据结构/线性表/数组.md"
     },
     {
       "basename": "贪心算法",
