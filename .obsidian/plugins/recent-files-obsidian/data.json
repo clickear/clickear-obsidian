@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "滑动窗口",
+      "path": "00-Project/数据结构与算法/杂项算法/滑动窗口.md"
+    },
+    {
       "basename": "数据结构与算法",
       "path": "00-Project/数据结构与算法/数据结构与算法.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "字符串基础",
       "path": "00-Project/数据结构与算法/数据结构/线性表/字符串/字符串基础.md"
-    },
-    {
-      "basename": "滑动窗口",
-      "path": "00-Project/数据结构与算法/杂项算法/滑动窗口.md"
     },
     {
       "basename": "分支限界法",
