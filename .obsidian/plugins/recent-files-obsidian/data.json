@@ -1,14 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "滑动窗口",
-      "path": "00-Project/数据结构与算法/杂项算法/滑动窗口.md"
-    },
-    {
-      "basename": "KMP算法",
-      "path": "00-Project/数据结构与算法/数据结构/线性表/字符串/KMP算法.md"
-    },
-    {
       "basename": "软考-数据结构",
       "path": "00-Project/软考/软考-数据结构.md"
     },
@@ -19,6 +11,14 @@
     {
       "basename": "软考-软件设计师",
       "path": "00-Project/软考/软考-软件设计师.md"
+    },
+    {
+      "basename": "滑动窗口",
+      "path": "00-Project/数据结构与算法/杂项算法/滑动窗口.md"
+    },
+    {
+      "basename": "KMP算法",
+      "path": "00-Project/数据结构与算法/数据结构/线性表/字符串/KMP算法.md"
     },
     {
       "basename": "引论",
