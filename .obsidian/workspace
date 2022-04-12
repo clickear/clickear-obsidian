@@ -208,6 +208,7 @@
   "active": "60aafc9d8d91f321",
   "lastOpenFiles": [
     "00-Project/软考/软考-数据结构.md",
+    "00-Project/数据结构与算法/基础算法/二分查找.md",
     "00-Project/数据结构与算法/数据结构/线性表/数组.md",
     "00-Project/数据结构与算法/数据结构/线性表/字符串/KMP算法.md",
     "20-Diary/2022-04-10.md",
@@ -215,7 +216,6 @@
     "00-Project/软考/程序设计语言基础知识.md",
     "00-Project/软考/软考-软件设计师.md",
     "20-Diary/2022-04-05.md",
-    "00-Project/数据结构与算法/杂项算法/滑动窗口.md",
-    "00-Project/PMP/引论.md"
+    "00-Project/数据结构与算法/杂项算法/滑动窗口.md"
   ]
 }
