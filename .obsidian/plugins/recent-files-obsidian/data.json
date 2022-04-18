@@ -5,6 +5,10 @@
       "path": "00-Project/数据结构与算法/基础算法/排序算法/排序算法.md"
     },
     {
+      "basename": "算法目录",
+      "path": "00-Project/数据结构与算法/算法目录.md"
+    },
+    {
       "basename": "分区容错性",
       "path": "00-Project/分布式系统/分区容错性.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "软考-数据结构",
       "path": "00-Project/软考/软考-数据结构.md"
-    },
-    {
-      "basename": "算法目录",
-      "path": "00-Project/数据结构与算法/算法目录.md"
     },
     {
       "basename": "数据结构",
