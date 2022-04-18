@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "软考-数据结构",
-      "path": "00-Project/软考/软考-数据结构.md"
+      "basename": "排序算法",
+      "path": "00-Project/数据结构与算法/基础算法/排序算法/排序算法.md"
+    },
+    {
+      "basename": "回溯法",
+      "path": "00-Project/数据结构与算法/基础算法/回溯法.md"
+    },
+    {
+      "basename": "分支限界法",
+      "path": "00-Project/数据结构与算法/基础算法/分支限界法.md"
+    },
+    {
+      "basename": "分治法",
+      "path": "00-Project/数据结构与算法/基础算法/分治法.md"
     },
     {
       "basename": "二分查找",
       "path": "00-Project/数据结构与算法/基础算法/二分查找.md"
+    },
+    {
+      "basename": "动态规划法",
+      "path": "00-Project/数据结构与算法/基础算法/动态规划法.md"
+    },
+    {
+      "basename": "软考-数据结构",
+      "path": "00-Project/软考/软考-数据结构.md"
+    },
+    {
+      "basename": "算法目录",
+      "path": "00-Project/数据结构与算法/算法目录.md"
+    },
+    {
+      "basename": "数据结构",
+      "path": "00-Project/数据结构与算法/数据结构/数据结构.md"
+    },
+    {
+      "basename": "基础算法",
+      "path": "00-Project/数据结构与算法/基础算法/基础算法.md"
+    },
+    {
+      "basename": "贪心算法",
+      "path": "00-Project/数据结构与算法/基础算法/贪心算法.md"
+    },
+    {
+      "basename": "资料",
+      "path": "00-Project/数据结构与算法/资料.md"
+    },
+    {
+      "basename": "数据结构与算法",
+      "path": "00-Project/数据结构与算法/数据结构与算法.md"
     },
     {
       "basename": "数组",
@@ -41,48 +85,12 @@
       "path": "00-Project/PMP/错题整理.md"
     },
     {
-      "basename": "数据结构与算法",
-      "path": "00-Project/数据结构与算法/数据结构与算法.md"
-    },
-    {
-      "basename": "算法目录",
-      "path": "00-Project/数据结构与算法/算法目录.md"
-    },
-    {
       "basename": "字符串基础",
       "path": "00-Project/数据结构与算法/数据结构/线性表/字符串/字符串基础.md"
     },
     {
-      "basename": "分支限界法",
-      "path": "00-Project/数据结构与算法/基础算法/分支限界法.md"
-    },
-    {
-      "basename": "回溯法",
-      "path": "00-Project/数据结构与算法/基础算法/回溯法.md"
-    },
-    {
-      "basename": "资料",
-      "path": "00-Project/数据结构与算法/资料.md"
-    },
-    {
       "basename": "栈",
       "path": "00-Project/数据结构与算法/数据结构/线性表/栈.md"
-    },
-    {
-      "basename": "动态规划法",
-      "path": "00-Project/数据结构与算法/基础算法/动态规划法.md"
-    },
-    {
-      "basename": "基础算法",
-      "path": "00-Project/数据结构与算法/基础算法/基础算法.md"
-    },
-    {
-      "basename": "贪心算法",
-      "path": "00-Project/数据结构与算法/基础算法/贪心算法.md"
-    },
-    {
-      "basename": "数据结构",
-      "path": "00-Project/数据结构与算法/数据结构/数据结构.md"
     },
     {
       "basename": "未命名",
@@ -91,10 +99,6 @@
     {
       "basename": "https",
       "path": "00-Project/计算机基础/https.md"
-    },
-    {
-      "basename": "排序算法",
-      "path": "00-Project/数据结构与算法/基础算法/排序算法/排序算法.md"
     },
     {
       "basename": "分布式系统导论",
@@ -115,10 +119,6 @@
     {
       "basename": "AP",
       "path": "00-Project/分布式系统/AP.md"
-    },
-    {
-      "basename": "ACID",
-      "path": "00-Project/分布式系统/ACID.md"
     }
   ],
   "omittedPaths": [
