@@ -5,6 +5,18 @@
       "path": "00-Project/数据结构与算法/基础算法/排序算法/排序算法.md"
     },
     {
+      "basename": "软考-数据结构",
+      "path": "00-Project/软考/软考-数据结构.md"
+    },
+    {
+      "basename": "引论",
+      "path": "00-Project/PMP/引论.md"
+    },
+    {
+      "basename": "学习计划",
+      "path": "00-Project/PMP/学习计划.md"
+    },
+    {
       "basename": "算法目录",
       "path": "00-Project/数据结构与算法/算法目录.md"
     },
@@ -53,10 +65,6 @@
       "path": "00-Project/数据结构与算法/基础算法/动态规划法.md"
     },
     {
-      "basename": "软考-数据结构",
-      "path": "00-Project/软考/软考-数据结构.md"
-    },
-    {
       "basename": "数据结构",
       "path": "00-Project/数据结构与算法/数据结构/数据结构.md"
     },
@@ -87,14 +95,6 @@
     {
       "basename": "滑动窗口",
       "path": "00-Project/数据结构与算法/杂项算法/滑动窗口.md"
-    },
-    {
-      "basename": "引论",
-      "path": "00-Project/PMP/引论.md"
-    },
-    {
-      "basename": "学习计划",
-      "path": "00-Project/PMP/学习计划.md"
     },
     {
       "basename": "错题整理",
