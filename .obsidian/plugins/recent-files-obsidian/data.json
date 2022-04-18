@@ -5,12 +5,36 @@
       "path": "00-Project/数据结构与算法/基础算法/排序算法/排序算法.md"
     },
     {
-      "basename": "回溯法",
-      "path": "00-Project/数据结构与算法/基础算法/回溯法.md"
+      "basename": "分区容错性",
+      "path": "00-Project/分布式系统/分区容错性.md"
+    },
+    {
+      "basename": "分布式系统导论",
+      "path": "00-Project/分布式系统/分布式系统导论.md"
+    },
+    {
+      "basename": "2PC",
+      "path": "00-Project/分布式系统/2PC.md"
+    },
+    {
+      "basename": "https",
+      "path": "00-Project/计算机基础/https.md"
     },
     {
       "basename": "分支限界法",
       "path": "00-Project/数据结构与算法/基础算法/分支限界法.md"
+    },
+    {
+      "basename": "贪心算法",
+      "path": "00-Project/数据结构与算法/基础算法/贪心算法.md"
+    },
+    {
+      "basename": "基础算法",
+      "path": "00-Project/数据结构与算法/基础算法/基础算法.md"
+    },
+    {
+      "basename": "回溯法",
+      "path": "00-Project/数据结构与算法/基础算法/回溯法.md"
     },
     {
       "basename": "分治法",
@@ -35,14 +59,6 @@
     {
       "basename": "数据结构",
       "path": "00-Project/数据结构与算法/数据结构/数据结构.md"
-    },
-    {
-      "basename": "基础算法",
-      "path": "00-Project/数据结构与算法/基础算法/基础算法.md"
-    },
-    {
-      "basename": "贪心算法",
-      "path": "00-Project/数据结构与算法/基础算法/贪心算法.md"
     },
     {
       "basename": "资料",
@@ -97,28 +113,12 @@
       "path": "00-Project/学习方法论/未命名.md"
     },
     {
-      "basename": "https",
-      "path": "00-Project/计算机基础/https.md"
-    },
-    {
-      "basename": "分布式系统导论",
-      "path": "00-Project/分布式系统/分布式系统导论.md"
-    },
-    {
       "basename": "凤凰架构",
       "path": "00-Project/分布式系统/凤凰架构.md"
     },
     {
       "basename": "BASE理论",
       "path": "00-Project/分布式系统/BASE理论.md"
-    },
-    {
-      "basename": "CAP定理",
-      "path": "00-Project/分布式系统/CAP定理.md"
-    },
-    {
-      "basename": "AP",
-      "path": "00-Project/分布式系统/AP.md"
     }
   ],
   "omittedPaths": [
