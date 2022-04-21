@@ -5,6 +5,14 @@
       "path": "00-Project/软考/软考3-操作系统.md"
     },
     {
+      "basename": "软考-软件设计师",
+      "path": "00-Project/软考/软考-软件设计师.md"
+    },
+    {
+      "basename": "程序设计语言基础知识",
+      "path": "00-Project/软考/程序设计语言基础知识.md"
+    },
+    {
       "basename": "排序算法",
       "path": "00-Project/数据结构与算法/基础算法/排序算法/排序算法.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "KMP算法",
       "path": "00-Project/数据结构与算法/数据结构/线性表/字符串/KMP算法.md"
-    },
-    {
-      "basename": "程序设计语言基础知识",
-      "path": "00-Project/软考/程序设计语言基础知识.md"
-    },
-    {
-      "basename": "软考-软件设计师",
-      "path": "00-Project/软考/软考-软件设计师.md"
     },
     {
       "basename": "滑动窗口",
