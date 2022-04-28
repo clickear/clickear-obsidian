@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Quorum NWR",
+      "path": "00-Project/分布式系统/Quorum NWR.md"
+    },
+    {
+      "basename": "Raft",
+      "path": "00-Project/分布式系统/Raft.md"
+    },
+    {
+      "basename": "MQ",
+      "path": "00-Project/分布式系统/MQ.md"
+    },
+    {
+      "basename": "凤凰架构",
+      "path": "00-Project/分布式系统/凤凰架构.md"
+    },
+    {
+      "basename": "可用性",
+      "path": "00-Project/分布式系统/可用性.md"
+    },
+    {
+      "basename": "状态机复制",
+      "path": "00-Project/分布式系统/状态机复制.md"
+    },
+    {
       "basename": "孩子-挑战",
       "path": "00-Project/教育/孩子-挑战.md"
     },
@@ -95,30 +119,6 @@
     {
       "basename": "数据结构与算法",
       "path": "00-Project/数据结构与算法/数据结构与算法.md"
-    },
-    {
-      "basename": "数组",
-      "path": "00-Project/数据结构与算法/数据结构/线性表/数组.md"
-    },
-    {
-      "basename": "KMP算法",
-      "path": "00-Project/数据结构与算法/数据结构/线性表/字符串/KMP算法.md"
-    },
-    {
-      "basename": "滑动窗口",
-      "path": "00-Project/数据结构与算法/杂项算法/滑动窗口.md"
-    },
-    {
-      "basename": "错题整理",
-      "path": "00-Project/PMP/错题整理.md"
-    },
-    {
-      "basename": "字符串基础",
-      "path": "00-Project/数据结构与算法/数据结构/线性表/字符串/字符串基础.md"
-    },
-    {
-      "basename": "栈",
-      "path": "00-Project/数据结构与算法/数据结构/线性表/栈.md"
     }
   ],
   "omittedPaths": [
