@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "孩子-挑战",
+      "path": "00-Project/教育/孩子-挑战.md"
+    },
+    {
+      "basename": "软考3-操作系统",
+      "path": "00-Project/软考/软考3-操作系统.md"
+    },
+    {
+      "basename": "软考-数据结构",
+      "path": "00-Project/软考/软考-数据结构.md"
+    },
+    {
+      "basename": "软考-软件设计师",
+      "path": "00-Project/软考/软考-软件设计师.md"
+    },
+    {
+      "basename": "程序设计语言基础知识",
+      "path": "00-Project/软考/程序设计语言基础知识.md"
+    },
+    {
+      "basename": "TablePlus",
+      "path": "00-Project/Archive/TablePlus.md"
+    },
+    {
+      "basename": "下载网站",
+      "path": "00-Project/Archive/下载网站.md"
+    },
+    {
+      "basename": "PARA",
+      "path": "00-Project/学习方法论/PARA.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "00-Project/学习方法论/未命名.md"
+    },
+    {
+      "basename": "学习方法论",
+      "path": "00-Project/学习方法论/学习方法论.md"
+    },
+    {
+      "basename": "先框架后局部",
+      "path": "先框架后局部.md"
+    },
+    {
+      "basename": "阅读清单",
+      "path": "00-Project/学习方法论/阅读清单.md"
+    },
+    {
+      "basename": "分布式系统导论",
+      "path": "00-Project/分布式系统/分布式系统导论.md"
+    },
+    {
+      "basename": "分布式算法",
+      "path": "00-Project/分布式系统/分布式算法.md"
+    },
+    {
       "basename": "Quorum NWR",
       "path": "00-Project/分布式系统/Quorum NWR.md"
     },
@@ -25,36 +81,12 @@
       "path": "00-Project/分布式系统/状态机复制.md"
     },
     {
-      "basename": "孩子-挑战",
-      "path": "00-Project/教育/孩子-挑战.md"
-    },
-    {
-      "basename": "软考3-操作系统",
-      "path": "00-Project/软考/软考3-操作系统.md"
-    },
-    {
-      "basename": "软考-软件设计师",
-      "path": "00-Project/软考/软考-软件设计师.md"
-    },
-    {
-      "basename": "程序设计语言基础知识",
-      "path": "00-Project/软考/程序设计语言基础知识.md"
-    },
-    {
       "basename": "排序算法",
       "path": "00-Project/数据结构与算法/基础算法/排序算法/排序算法.md"
     },
     {
-      "basename": "分布式算法",
-      "path": "00-Project/分布式系统/分布式算法.md"
-    },
-    {
       "basename": "引论",
       "path": "00-Project/PMP/引论.md"
-    },
-    {
-      "basename": "软考-数据结构",
-      "path": "00-Project/软考/软考-数据结构.md"
     },
     {
       "basename": "学习计划",
@@ -67,10 +99,6 @@
     {
       "basename": "分区容错性",
       "path": "00-Project/分布式系统/分区容错性.md"
-    },
-    {
-      "basename": "分布式系统导论",
-      "path": "00-Project/分布式系统/分布式系统导论.md"
     },
     {
       "basename": "2PC",
@@ -91,34 +119,6 @@
     {
       "basename": "基础算法",
       "path": "00-Project/数据结构与算法/基础算法/基础算法.md"
-    },
-    {
-      "basename": "回溯法",
-      "path": "00-Project/数据结构与算法/基础算法/回溯法.md"
-    },
-    {
-      "basename": "分治法",
-      "path": "00-Project/数据结构与算法/基础算法/分治法.md"
-    },
-    {
-      "basename": "二分查找",
-      "path": "00-Project/数据结构与算法/基础算法/二分查找.md"
-    },
-    {
-      "basename": "动态规划法",
-      "path": "00-Project/数据结构与算法/基础算法/动态规划法.md"
-    },
-    {
-      "basename": "数据结构",
-      "path": "00-Project/数据结构与算法/数据结构/数据结构.md"
-    },
-    {
-      "basename": "资料",
-      "path": "00-Project/数据结构与算法/资料.md"
-    },
-    {
-      "basename": "数据结构与算法",
-      "path": "00-Project/数据结构与算法/数据结构与算法.md"
     }
   ],
   "omittedPaths": [
