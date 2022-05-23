@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20-Diary/2022-05-23.md",
+            "file": "00-Project/软考/软考- 数据库.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20-Diary/2022-05-23.md",
+                "file": "00-Project/软考/软考- 数据库.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-Diary/2022-05-23.md"
+                "file": "00-Project/软考/软考- 数据库.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-Diary/2022-05-23.md",
+                "file": "00-Project/软考/软考- 数据库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,6 +207,7 @@
   },
   "active": "60aafc9d8d91f321",
   "lastOpenFiles": [
+    "00-Project/软考/软考- 数据库.md",
     "20-Diary/2022-05-23.md",
     "00-Project/教育/孩子-挑战.md",
     "00-Project/软考/软考3-操作系统.md",
@@ -215,7 +216,6 @@
     "00-Project/软考/程序设计语言基础知识.md",
     "00-Project/Archive/TablePlus.md",
     "00-Project/Archive/下载网站.md",
-    "00-Project/学习方法论/PARA.md",
-    "00-Project/学习方法论/未命名.md"
+    "00-Project/学习方法论/PARA.md"
   ]
 }
