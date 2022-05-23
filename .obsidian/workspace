@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-Project/教育/孩子-挑战.md",
+            "file": "20-Diary/2022-05-23.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-Project/教育/孩子-挑战.md",
+                "file": "20-Diary/2022-05-23.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -95,7 +95,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.4787048675641825,
+                  "scale": 1.9507900396272566,
                   "close": true
                 }
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Project/教育/孩子-挑战.md"
+                "file": "20-Diary/2022-05-23.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Project/教育/孩子-挑战.md",
+                "file": "20-Diary/2022-05-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,6 +207,7 @@
   },
   "active": "60aafc9d8d91f321",
   "lastOpenFiles": [
+    "20-Diary/2022-05-23.md",
     "00-Project/教育/孩子-挑战.md",
     "00-Project/软考/软考3-操作系统.md",
     "00-Project/软考/软考-数据结构.md",
@@ -215,7 +216,6 @@
     "00-Project/Archive/TablePlus.md",
     "00-Project/Archive/下载网站.md",
     "00-Project/学习方法论/PARA.md",
-    "00-Project/学习方法论/未命名.md",
-    "00-Project/学习方法论/学习方法论.md"
+    "00-Project/学习方法论/未命名.md"
   ]
 }
