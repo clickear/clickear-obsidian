@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "软考-12软件工程",
+      "path": "00-Project/软考/软考-12软件工程.md"
+    },
+    {
       "basename": "软考-14 信息安全",
       "path": "00-Project/软考/软考-14 信息安全.md"
     },
@@ -115,10 +119,6 @@
     {
       "basename": "https",
       "path": "00-Project/计算机基础/https.md"
-    },
-    {
-      "basename": "分支限界法",
-      "path": "00-Project/数据结构与算法/基础算法/分支限界法.md"
     }
   ],
   "omittedPaths": [
