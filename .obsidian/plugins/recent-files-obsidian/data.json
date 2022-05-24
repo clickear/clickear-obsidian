@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "软考-14 信息安全",
+      "path": "00-Project/软考/软考-14 信息安全.md"
+    },
+    {
+      "basename": "软考3-操作系统",
+      "path": "00-Project/软考/软考3-操作系统.md"
+    },
+    {
       "basename": "软考- 数据库",
       "path": "00-Project/软考/软考- 数据库.md"
     },
     {
       "basename": "孩子-挑战",
       "path": "00-Project/教育/孩子-挑战.md"
-    },
-    {
-      "basename": "软考3-操作系统",
-      "path": "00-Project/软考/软考3-操作系统.md"
     },
     {
       "basename": "软考-数据结构",
@@ -115,10 +119,6 @@
     {
       "basename": "分支限界法",
       "path": "00-Project/数据结构与算法/基础算法/分支限界法.md"
-    },
-    {
-      "basename": "贪心算法",
-      "path": "00-Project/数据结构与算法/基础算法/贪心算法.md"
     }
   ],
   "omittedPaths": [

@@ -7,8 +7,13 @@
         "id": "60aafc9d8d91f321",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "00-Project/软考/软考-14 信息安全.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -67,6 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "00-Project/软考/软考-14 信息安全.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -123,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00-Project/软考/软考-14 信息安全.md"
+              }
             }
           },
           {
@@ -148,6 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00-Project/软考/软考-14 信息安全.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,15 +207,15 @@
   },
   "active": "60aafc9d8d91f321",
   "lastOpenFiles": [
+    "00-Project/软考/软考-14 信息安全.md",
+    "00-Project/软考/软考3-操作系统.md",
+    "20-Diary/2022-05-24.md",
     "00-Project/软考/软考- 数据库.md",
     "20-Diary/2022-05-23.md",
     "00-Project/教育/孩子-挑战.md",
-    "00-Project/软考/软考3-操作系统.md",
     "00-Project/软考/软考-数据结构.md",
     "00-Project/软考/软考-软件设计师.md",
     "00-Project/软考/程序设计语言基础知识.md",
-    "00-Project/Archive/TablePlus.md",
-    "00-Project/Archive/下载网站.md",
-    "00-Project/学习方法论/PARA.md"
+    "00-Project/Archive/TablePlus.md"
   ]
 }
