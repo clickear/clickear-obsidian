@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "软考-16 计算机网络",
+      "path": "00-Project/软考/软考-16 计算机网络.md"
+    },
+    {
       "basename": "软考-12软件工程",
       "path": "00-Project/软考/软考-12软件工程.md"
     },
@@ -115,10 +119,6 @@
     {
       "basename": "2PC",
       "path": "00-Project/分布式系统/2PC.md"
-    },
-    {
-      "basename": "https",
-      "path": "00-Project/计算机基础/https.md"
     }
   ],
   "omittedPaths": [
