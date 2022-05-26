@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "软考-下午题01",
-      "path": "00-Project/软考/软考-下午题01.md"
+      "basename": "软考-下午题02-ER图",
+      "path": "00-Project/软考/软考-下午题02-ER图.md"
+    },
+    {
+      "basename": "软考-下午题01-数据流图",
+      "path": "00-Project/软考/软考-下午题01-数据流图.md"
     },
     {
       "basename": "软考-11结构化开发",
@@ -115,10 +119,6 @@
     {
       "basename": "学习计划",
       "path": "00-Project/PMP/学习计划.md"
-    },
-    {
-      "basename": "算法目录",
-      "path": "00-Project/数据结构与算法/算法目录.md"
     }
   ],
   "omittedPaths": [
