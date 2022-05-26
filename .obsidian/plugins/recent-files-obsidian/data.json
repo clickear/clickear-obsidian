@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "软考-下午题01",
+      "path": "00-Project/软考/软考-下午题01.md"
+    },
+    {
+      "basename": "软考-10操作系统",
+      "path": "00-Project/软考/软考-10操作系统.md"
+    },
+    {
       "basename": "软考-11结构化开发",
       "path": "00-Project/软考/软考-11结构化开发.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "软考-12软件工程",
       "path": "00-Project/软考/软考-12软件工程.md"
-    },
-    {
-      "basename": "软考-03操作系统",
-      "path": "00-Project/软考/软考-03操作系统.md"
     },
     {
       "basename": "软考-数据库",
@@ -115,10 +119,6 @@
     {
       "basename": "算法目录",
       "path": "00-Project/数据结构与算法/算法目录.md"
-    },
-    {
-      "basename": "分区容错性",
-      "path": "00-Project/分布式系统/分区容错性.md"
     }
   ],
   "omittedPaths": [
