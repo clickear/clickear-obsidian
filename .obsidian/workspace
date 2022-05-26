@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-Project/软考/软考-16 计算机网络.md",
+            "file": "00-Project/软考/软考-11结构化开发.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-Project/软考/软考-16 计算机网络.md",
+                "file": "00-Project/软考/软考-11结构化开发.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Project/软考/软考-16 计算机网络.md"
+                "file": "00-Project/软考/软考-11结构化开发.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Project/软考/软考-16 计算机网络.md",
+                "file": "00-Project/软考/软考-11结构化开发.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,6 +207,7 @@
   },
   "active": "60aafc9d8d91f321",
   "lastOpenFiles": [
+    "00-Project/软考/软考-11结构化开发.md",
     "00-Project/软考/软考-16 计算机网络.md",
     "00-Project/软考/软考-12软件工程.md",
     "00-Project/软考/软考-03操作系统.md",
@@ -215,7 +216,6 @@
     "00-Project/软考/软考-01程序设计语言基础知识.md",
     "00-Project/软考/软考-14 信息安全.md",
     "00-Project/软考/软考-数据结构.md",
-    "20-Diary/2022-05-24.md",
-    "20-Diary/2022-05-23.md"
+    "20-Diary/2022-05-24.md"
   ]
 }

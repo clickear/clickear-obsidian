@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "软考-11结构化开发",
+      "path": "00-Project/软考/软考-11结构化开发.md"
+    },
+    {
       "basename": "软考-16 计算机网络",
       "path": "00-Project/软考/软考-16 计算机网络.md"
     },
@@ -115,10 +119,6 @@
     {
       "basename": "分区容错性",
       "path": "00-Project/分布式系统/分区容错性.md"
-    },
-    {
-      "basename": "2PC",
-      "path": "00-Project/分布式系统/2PC.md"
     }
   ],
   "omittedPaths": [
