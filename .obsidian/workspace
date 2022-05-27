@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-Project/软考/软考-00软件设计师.md",
+            "file": "00-Project/软考/软考-01程序设计语言基础知识.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-Project/软考/软考-00软件设计师.md",
+                "file": "00-Project/软考/软考-01程序设计语言基础知识.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -105,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 350
   },
   "right": {
     "id": "4e390742ffc29613",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Project/软考/软考-00软件设计师.md"
+                "file": "00-Project/软考/软考-01程序设计语言基础知识.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Project/软考/软考-00软件设计师.md",
+                "file": "00-Project/软考/软考-01程序设计语言基础知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,15 +207,15 @@
   },
   "active": "60aafc9d8d91f321",
   "lastOpenFiles": [
+    "00-Project/软考/软考-01程序设计语言基础知识.md",
     "00-Project/软考/软考-00软件设计师.md",
+    "00-Project/软考/软考-待深入.md",
     "00-Project/软考/软考-下午题02-ER图.md",
     "00-Project/软考/软考-下午题01-数据流图.md",
     "00-Project/软考/软考-11结构化开发.md",
     "00-Project/软考/软考-10操作系统.md",
     "00-Project/软考/软考-16 计算机网络.md",
     "00-Project/软考/软考-12软件工程.md",
-    "00-Project/软考/软考-数据库.md",
-    "00-Project/软考/软考-01程序设计语言基础知识.md",
-    "00-Project/软考/软考-14 信息安全.md"
+    "00-Project/软考/软考-数据库.md"
   ]
 }
