@@ -7,8 +7,13 @@
         "id": "60aafc9d8d91f321",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "20-Diary/2022-07-07.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -67,6 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "20-Diary/2022-07-07.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -123,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "20-Diary/2022-07-07.md"
+              }
             }
           },
           {
@@ -148,6 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "20-Diary/2022-07-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,6 +207,8 @@
   },
   "active": "60aafc9d8d91f321",
   "lastOpenFiles": [
+    "20-Diary/2022-07-07.md",
+    "20-Diary/2022-06-22.md",
     "20-Diary/2022-06-19.md",
     "20-Diary/2022-06-17.md",
     "00-Project/软考/软考-下午题01-数据流图.md",
@@ -205,8 +216,6 @@
     "00-Project/软考/软考-12软件工程.md",
     "00-Project/软考/软考-数据结构.md",
     "00-Project/软考/软考-数据库.md",
-    "00-Project/软考/软考-14 信息安全.md",
-    "00-Project/软考/软考-16 计算机网络.md",
-    "00-Project/软考/软考-10操作系统.md"
+    "00-Project/软考/软考-14 信息安全.md"
   ]
 }
