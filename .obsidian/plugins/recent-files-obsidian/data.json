@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "学习方法论",
+      "path": "00-Project/学习方法论/学习方法论.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "00-Project/学习方法论/未命名.md"
+    },
+    {
+      "basename": "孩子-挑战",
+      "path": "00-Project/教育/孩子-挑战.md"
+    },
+    {
+      "basename": "https",
+      "path": "00-Project/计算机基础/https.md"
+    },
+    {
+      "basename": "先框架后局部",
+      "path": "先框架后局部.md"
+    },
+    {
+      "basename": "2PC",
+      "path": "00-Project/分布式系统/2PC.md"
+    },
+    {
       "basename": "Gossip",
       "path": "00-Project/分布式系统/Gossip.md"
     },
@@ -23,10 +47,6 @@
     {
       "basename": "Pasted image 20220526173412",
       "path": "99-Resource/Pasted image 20220526173412.png"
-    },
-    {
-      "basename": "2PC",
-      "path": "00-Project/分布式系统/2PC.md"
     },
     {
       "basename": "ZAB",
@@ -81,10 +101,6 @@
       "path": "00-Project/软考/软考-下午题02-ER图.md"
     },
     {
-      "basename": "孩子-挑战",
-      "path": "00-Project/教育/孩子-挑战.md"
-    },
-    {
       "basename": "TablePlus",
       "path": "00-Project/Archive/TablePlus.md"
     },
@@ -97,28 +113,12 @@
       "path": "00-Project/学习方法论/PARA.md"
     },
     {
-      "basename": "未命名",
-      "path": "00-Project/学习方法论/未命名.md"
-    },
-    {
-      "basename": "学习方法论",
-      "path": "00-Project/学习方法论/学习方法论.md"
-    },
-    {
-      "basename": "先框架后局部",
-      "path": "先框架后局部.md"
-    },
-    {
       "basename": "阅读清单",
       "path": "00-Project/学习方法论/阅读清单.md"
     },
     {
       "basename": "分布式系统导论",
       "path": "00-Project/分布式系统/分布式系统导论.md"
-    },
-    {
-      "basename": "分布式算法",
-      "path": "00-Project/分布式系统/分布式算法.md"
     }
   ],
   "omittedPaths": [
