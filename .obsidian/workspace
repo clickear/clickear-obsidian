@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-Project/软考/软考-00软件设计师.md",
+            "file": "20-Diary/2022-08-31.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-Project/软考/软考-00软件设计师.md",
+                "file": "20-Diary/2022-08-31.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Project/软考/软考-00软件设计师.md"
+                "file": "20-Diary/2022-08-31.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Project/软考/软考-00软件设计师.md",
+                "file": "20-Diary/2022-08-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,15 +207,15 @@
   },
   "active": "60aafc9d8d91f321",
   "lastOpenFiles": [
-    "20-Diary/2022-07-22.md",
-    "20-Diary/2022-07-07.md",
-    "20-Diary/2022-06-22.md",
-    "20-Diary/2022-06-19.md",
-    "20-Diary/2022-06-17.md",
-    "00-Project/软考/软考-下午题01-数据流图.md",
-    "00-Project/软考/软考-11结构化开发.md",
-    "00-Project/软考/软考-12软件工程.md",
-    "00-Project/软考/软考-数据结构.md",
-    "00-Project/软考/软考-数据库.md"
+    "00-Project/分布式系统/Gossip.md",
+    "00-Project/分布式系统/最终一致性.md",
+    "00-Project/分布式系统/ACID.md",
+    "00-Project/分布式系统/AP.md",
+    "99-Resource/Pasted image 20220527161605.png",
+    "99-Resource/Pasted image 20220526173412.png",
+    "00-Project/分布式系统/2PC.md",
+    "00-Project/分布式系统/ZAB.md",
+    "00-Project/软考/软考-00软件设计师.md",
+    "20-Diary/2022-07-22.md"
   ]
 }

@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Gossip",
+      "path": "00-Project/分布式系统/Gossip.md"
+    },
+    {
+      "basename": "最终一致性",
+      "path": "00-Project/分布式系统/最终一致性.md"
+    },
+    {
+      "basename": "ACID",
+      "path": "00-Project/分布式系统/ACID.md"
+    },
+    {
+      "basename": "AP",
+      "path": "00-Project/分布式系统/AP.md"
+    },
+    {
+      "basename": "Pasted image 20220527161605",
+      "path": "99-Resource/Pasted image 20220527161605.png"
+    },
+    {
+      "basename": "Pasted image 20220526173412",
+      "path": "99-Resource/Pasted image 20220526173412.png"
+    },
+    {
+      "basename": "2PC",
+      "path": "00-Project/分布式系统/2PC.md"
+    },
+    {
+      "basename": "ZAB",
+      "path": "00-Project/分布式系统/ZAB.md"
+    },
+    {
       "basename": "软考-00软件设计师",
       "path": "00-Project/软考/软考-00软件设计师.md"
     },
@@ -87,38 +119,6 @@
     {
       "basename": "分布式算法",
       "path": "00-Project/分布式系统/分布式算法.md"
-    },
-    {
-      "basename": "Quorum NWR",
-      "path": "00-Project/分布式系统/Quorum NWR.md"
-    },
-    {
-      "basename": "Raft",
-      "path": "00-Project/分布式系统/Raft.md"
-    },
-    {
-      "basename": "MQ",
-      "path": "00-Project/分布式系统/MQ.md"
-    },
-    {
-      "basename": "凤凰架构",
-      "path": "00-Project/分布式系统/凤凰架构.md"
-    },
-    {
-      "basename": "可用性",
-      "path": "00-Project/分布式系统/可用性.md"
-    },
-    {
-      "basename": "状态机复制",
-      "path": "00-Project/分布式系统/状态机复制.md"
-    },
-    {
-      "basename": "排序算法",
-      "path": "00-Project/数据结构与算法/基础算法/排序算法/排序算法.md"
-    },
-    {
-      "basename": "引论",
-      "path": "00-Project/PMP/引论.md"
     }
   ],
   "omittedPaths": [
