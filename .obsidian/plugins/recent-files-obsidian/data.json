@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "https",
+      "path": "00-Project/计算机基础/https.md"
+    },
+    {
+      "basename": "Raft",
+      "path": "00-Project/分布式系统/Raft.md"
+    },
+    {
       "basename": "学习方法论",
       "path": "00-Project/学习方法论/学习方法论.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "孩子-挑战",
       "path": "00-Project/教育/孩子-挑战.md"
-    },
-    {
-      "basename": "https",
-      "path": "00-Project/计算机基础/https.md"
     },
     {
       "basename": "先框架后局部",
@@ -115,10 +119,6 @@
     {
       "basename": "阅读清单",
       "path": "00-Project/学习方法论/阅读清单.md"
-    },
-    {
-      "basename": "分布式系统导论",
-      "path": "00-Project/分布式系统/分布式系统导论.md"
     }
   ],
   "omittedPaths": [
