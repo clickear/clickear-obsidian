@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2PC",
+      "path": "00-Project/分布式系统/2PC.md"
+    },
+    {
       "basename": "https",
       "path": "00-Project/计算机基础/https.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "先框架后局部",
       "path": "先框架后局部.md"
-    },
-    {
-      "basename": "2PC",
-      "path": "00-Project/分布式系统/2PC.md"
     },
     {
       "basename": "Gossip",
