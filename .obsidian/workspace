@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-Project/分布式系统/2PC.md",
+            "file": "20-Diary/2022-09-22.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-Project/分布式系统/2PC.md",
+                "file": "20-Diary/2022-09-22.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Project/分布式系统/2PC.md"
+                "file": "20-Diary/2022-09-22.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Project/分布式系统/2PC.md",
+                "file": "20-Diary/2022-09-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,15 +207,15 @@
   },
   "active": "60aafc9d8d91f321",
   "lastOpenFiles": [
+    "00-Project/分布式系统/Paxos.md",
+    "00-Project/分布式系统/MQ.md",
+    "00-Project/分布式系统/Quorum机制.md",
+    "00-Project/分布式系统/分布式算法.md",
+    "00-Project/分布式系统/2PC.md",
     "20-Diary/2022-09-16.md",
     "20-Diary/2022-09-07.md",
     "20-Diary/2022-09-02.md",
     "20-Diary/2022-02-15.md",
-    "00-Project/计算机基础/https.md",
-    "00-Project/分布式系统/Raft.md",
-    "20-Diary/2022-08-31.md",
-    "20-Diary/2022-07-07.md",
-    "00-Project/学习方法论/学习方法论.md",
-    "00-Project/学习方法论/未命名.md"
+    "00-Project/计算机基础/https.md"
   ]
 }

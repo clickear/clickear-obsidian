@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Paxos",
+      "path": "00-Project/分布式系统/Paxos.md"
+    },
+    {
+      "basename": "MQ",
+      "path": "00-Project/分布式系统/MQ.md"
+    },
+    {
+      "basename": "Quorum机制",
+      "path": "00-Project/分布式系统/Quorum机制.md"
+    },
+    {
+      "basename": "分布式算法",
+      "path": "00-Project/分布式系统/分布式算法.md"
+    },
+    {
       "basename": "2PC",
       "path": "00-Project/分布式系统/2PC.md"
     },
@@ -103,22 +119,6 @@
     {
       "basename": "软考-下午题02-ER图",
       "path": "00-Project/软考/软考-下午题02-ER图.md"
-    },
-    {
-      "basename": "TablePlus",
-      "path": "00-Project/Archive/TablePlus.md"
-    },
-    {
-      "basename": "下载网站",
-      "path": "00-Project/Archive/下载网站.md"
-    },
-    {
-      "basename": "PARA",
-      "path": "00-Project/学习方法论/PARA.md"
-    },
-    {
-      "basename": "阅读清单",
-      "path": "00-Project/学习方法论/阅读清单.md"
     }
   ],
   "omittedPaths": [
