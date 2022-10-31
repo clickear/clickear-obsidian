@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "数组",
+      "path": "00-Project/数据结构与算法/数据结构/线性表/数组.md"
+    },
+    {
+      "basename": "算法目录",
+      "path": "00-Project/数据结构与算法/算法目录.md"
+    },
+    {
+      "basename": "数据结构",
+      "path": "00-Project/数据结构与算法/数据结构/数据结构.md"
+    },
+    {
+      "basename": "基础算法",
+      "path": "00-Project/数据结构与算法/基础算法/基础算法.md"
+    },
+    {
       "basename": "Paxos",
       "path": "00-Project/分布式系统/Paxos.md"
     },
@@ -103,22 +119,6 @@
     {
       "basename": "软考-16 计算机网络",
       "path": "00-Project/软考/软考-16 计算机网络.md"
-    },
-    {
-      "basename": "软考-10操作系统",
-      "path": "00-Project/软考/软考-10操作系统.md"
-    },
-    {
-      "basename": "软考-01程序设计语言基础知识",
-      "path": "00-Project/软考/软考-01程序设计语言基础知识.md"
-    },
-    {
-      "basename": "软考-待深入",
-      "path": "00-Project/软考/软考-待深入.md"
-    },
-    {
-      "basename": "软考-下午题02-ER图",
-      "path": "00-Project/软考/软考-下午题02-ER图.md"
     }
   ],
   "omittedPaths": [
