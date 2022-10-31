@@ -11,5 +11,6 @@
     "【自定义】表格样式ableStyles",
     "【自定义】彩色时钟样式"
   ],
-  "translucency": false
+  "translucency": false,
+  "accentColor": ""
 }
