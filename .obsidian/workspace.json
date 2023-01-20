@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-Diary/2023-01-20.md",
+                "file": "00-Project/学习方法论/学习方法论.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "20-Diary/2023-01-20.md",
+                "file": "00-Project/学习方法论/学习方法论.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-Diary/2023-01-20.md"
+                "file": "00-Project/学习方法论/学习方法论.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-Diary/2023-01-20.md",
+                "file": "00-Project/学习方法论/学习方法论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,6 +232,7 @@
   },
   "active": "60aafc9d8d91f321",
   "lastOpenFiles": [
+    "20-Diary/2023-01-20.md",
     "00-Project/数据结构与算法/数据结构/线性表/数组.md",
     "00-Project/数据结构与算法/算法目录.md",
     "00-Project/数据结构与算法/数据结构/数据结构.md",
@@ -240,7 +241,6 @@
     "20-Diary/2022-09-22.md",
     "00-Project/分布式系统/Paxos.md",
     "00-Project/分布式系统/MQ.md",
-    "00-Project/分布式系统/Quorum机制.md",
-    "00-Project/分布式系统/分布式算法.md"
+    "00-Project/分布式系统/Quorum机制.md"
   ]
 }

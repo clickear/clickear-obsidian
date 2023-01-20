@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "学习方法论",
+      "path": "00-Project/学习方法论/学习方法论.md"
+    },
+    {
       "basename": "数组",
       "path": "00-Project/数据结构与算法/数据结构/线性表/数组.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "Raft",
       "path": "00-Project/分布式系统/Raft.md"
-    },
-    {
-      "basename": "学习方法论",
-      "path": "00-Project/学习方法论/学习方法论.md"
     },
     {
       "basename": "未命名",
